@@ -9,7 +9,7 @@ directly. This is article will give you a quick overview of how Testomato works.
 
 In order to monitor your website, Testomato downloads and scans your HTML code
 similar to other popular web crawlers (like Googlebot). However, we use our own
-crawler, the `Testomotobot <what-is-testomatobot.rst>`_.
+crawler, the `Testomotobot <what-is-testomatobot>`_.
 
 Testomato downloads your HTML source code in order to run checks, but it does
 not execute any of the JavaScript on your website. This means that while we can
