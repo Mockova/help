@@ -1,6 +1,5 @@
-=========================
- What Does Testomato Do?
-=========================
+What Does Testomato Do?
+=======================
 
 Modern websites require many complex and critical actions to work correctly.
 Most of the time everything works great, but even if your website is available,

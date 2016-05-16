@@ -1,6 +1,5 @@
-==================
- Profile Settings
-==================
+Profile Settings
+================
 
 This article talks about how to configure the settings for your personal user
 profile.
