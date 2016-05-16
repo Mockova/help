@@ -14,13 +14,13 @@ server (e.g. your homepage, robots.txt, favicon.ico, etc.)
 
 You can locate Testomatobot easily in your server logs with the following user agent HTTP header field:
 
-.. code-block:: guess
+.. code-block:: none
 
     Testomatobot/1.0 (%os%; +http://www.testomato.com/testomatobot) minicrawler/%version%
 
 IP addresses for Testomatobot:
 
-.. code-block:: guess
+.. code-block:: none
 
     217.31.53.128/27
     217.31.54.192/27
@@ -41,9 +41,12 @@ For example, if Google's bot wants to crawl  example.com/abc it would be sent
 
 1. Click on the project you'd like to view or select a project from the All
    Projects menu in the top right corner.
+
 2. Once in the project dashboard, click on the Settings tab and scroll down to
    User Agent string.
-   .. image:: /testomatobot/user-agent-string.png
+
+.. image:: /testomatobot/user-agent-string.png
+   :align: center
 
 3. Select the user agent string you would like to use. Your new settings will
    update automatically.
