@@ -8,4 +8,4 @@ profile.
 First, you'll need to go to the account menu (located in the top right corner)
 and select **Profile Settings**:
 
-.. image:: /acount/profile-settings.png
+.. image:: /account/profile-settings.png
