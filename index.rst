@@ -17,11 +17,6 @@
 
 .. toctree::
   :maxdepth: 2
-  :caption: Uptime monitoring
-
-
-.. toctree::
-  :maxdepth: 2
   :caption: Projects
 
 
