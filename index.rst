@@ -2,6 +2,7 @@
  Testomato HELP
 ================
 
+
 .. toctree::
    :maxdepth: 2
    :caption: Getting Started
@@ -32,7 +33,9 @@
 .. toctree::
   :maxdepth: 2
   :caption: User Accounts & Roles
+  :glob:
 
+  account/*
 
 .. toctree::
   :maxdepth: 2
