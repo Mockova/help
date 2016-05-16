@@ -14,21 +14,20 @@ server (e.g. your homepage, robots.txt, favicon.ico, etc.)
 
 You can locate Testomatobot easily in your server logs with the following user agent HTTP header field:
 
+.. code-block:: guess
 
-``
-Testomatobot/1.0 (%os%; +http://www.testomato.com/testomatobot) minicrawler/%version%
-``
+    Testomatobot/1.0 (%os%; +http://www.testomato.com/testomatobot) minicrawler/%version%
 
 IP addresses for Testomatobot:
 
-``
-217.31.53.128/27
-217.31.54.192/27
-217.31.55.64/27
-50.57.53.25
-23.253.162.51
-23.253.21.216
-``
+.. code-block:: guess
+
+    217.31.53.128/27
+    217.31.54.192/27
+    217.31.55.64/27
+    50.57.53.25
+    23.253.162.51
+    23.253.21.216
 
 How to Change Your User Agent String
 ------------------------------------
