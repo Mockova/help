@@ -19,7 +19,7 @@ color according to the status of each check.
 
 Here is a project dashboard:
 
-.. image:: /account/project-dashboard.png
+.. image:: /projects/project-dashboard.png
    :alt: Project Dashboard
    :align: center
 
@@ -34,13 +34,13 @@ According to your `Payment Plan <https://www.testomato.com/pricing>`_ your **Pro
 also displays a green, red, or orange circle icon, which indicates whether your
 homepage is up, down, or timing out.
 
-.. image:: /account/uptime.png
+.. image:: /projects/uptime.png
    :alt: Uptime indicator
    :align: center
 
 Most important controls on **Project dashboard** are in top-right corner:
 
-.. image:: /account/project-controls.png
+.. image:: /projects/project-controls.png
    :alt: Project Controls
    :align: center
 
