@@ -1,5 +1,5 @@
-How to Create a Pages Group
-===========================
+Create a Pages Group
+====================
 
 Groups come in handy when have rules you want to apply to a specific set of pages, which may be different from your main project pages.
 
