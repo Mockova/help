@@ -1,4 +1,4 @@
-Delete project
+Delete Project
 ==============
 
 1. Head to the **Project Settings** in your :doc:`Project dashboard </projects/project-dashboard>`.
