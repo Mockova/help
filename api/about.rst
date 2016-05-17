@@ -23,13 +23,15 @@ All API endpoints require authentication via an API key. Each project has its ow
 You can find your API Key at the bottom of the Settings tab in your project dashboard:
 
 Apimato
-------
+-------
 
-Apimato is a command line tool written in PHP/Python for the purpose of executing Testomato API tasks. For more information, please visit Apimato GitHub Repository.
+Apimato is a command line tool written in PHP/Python for the purpose of
+executing Testomato API tasks. For more information, please visit
+`Apimato GitHub Repository <https://github.com/testomato/apimato>`_.
 
-How to Install Apimato
+**How to Install Apimato**
 
-The best way to install Apimato is to download the latest package using Composer:
+The best way to install Apimato is to download the latest package using `Composer <https://getcomposer.org/>`_:
 
 .. code-block:: bash
 
