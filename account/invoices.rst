@@ -1,9 +1,7 @@
 Invoices
 ========
 
-Here's how to access your invoices:
-
-Open `Invoice list <https://www.testomato.com/invoice/list>`_ or click Chose **Your Invouces** from your Account Menu:
+Here's how to access your invoices: Open `Invoice list <https://www.testomato.com/invoice/list>`_ or click Chose **Your Invouces** from your Account Menu:
 
 .. image:: /account/invoices.png
    :alt: Invoices list
