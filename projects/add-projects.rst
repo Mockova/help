@@ -10,7 +10,7 @@ Click **+Add project** in the top left corner.
 
 1. Enter homepage URL
 
-.. image:: /projects/add-projects.png
+.. image:: /projects/add-project.png
    :alt: Create projects
    :align: center
 
