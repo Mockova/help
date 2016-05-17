@@ -11,18 +11,21 @@ Testomato HELP
 .. toctree::
   :maxdepth: 2
   :caption: Uptime monitoring
+  :glob:
 
   uptime/*
 
 .. toctree::
   :maxdepth: 2
   :caption: Projects
+  :glob:
 
   projects/*
 
 .. toctree::
   :maxdepth: 2
   :caption: Checks
+  :glob:
 
   checks/*
 
@@ -36,18 +39,21 @@ Testomato HELP
 .. toctree::
   :maxdepth: 2
   :caption: Notifications
+  :glob:
 
   notifications/*
 
 .. toctree::
   :maxdepth: 2
   :caption: Reports
+  :glob:
 
   reports/*
 
 .. toctree::
   :maxdepth: 2
   :caption: Plans & Billing
+  :glob:
 
   plans-billing/*
 
