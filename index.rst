@@ -27,7 +27,7 @@ Testomato HELP
    :caption: Monitoring
    :glob:
 
-  monitoring/*
+   monitoring/*
 
 .. toctree::
    :maxdepth: 2
