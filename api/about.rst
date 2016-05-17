@@ -1,7 +1,7 @@
 Testomato API
 =============
 
-Testomato  `REST <https://en.wikipedia.org/wiki/Representational_state_transfer>`
+Testomato  `REST <https://en.wikipedia.org/wiki/Representational_state_transfer>`_
 API provides simple interfaces for Testomato functionality. To use a REST API,
 your application makes an HTTP request and parses the JSON formatted response.
 

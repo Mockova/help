@@ -33,7 +33,7 @@ How Uptime Monitoring Works
 * Your Reports includes a new chart for uptime percentage and a
   history of all project response time checks.
 
-.. image:: /uptime/repots.png
+.. image:: /uptime/reports.png
    :alt: Reports
    :align: center
 
