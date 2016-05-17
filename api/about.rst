@@ -11,12 +11,9 @@ The API can be used to do the following with continuous integration:
 * Getting project information
 * Reading project results
 
-**In this article**
-
-* :ref:`how-to-access`
-* :ref:`apimato`
-
-.. _how-to-access:
+.. contents:: In this article
+   :local:
+   :depth: 1
 
 How to Access the Testomato API
 -------------------------------
@@ -24,9 +21,6 @@ How to Access the Testomato API
 All API endpoints require authentication via an API key. Each project has its own unique API key that protects your data against unwanted access. An API key parameter is mandatory in all requests.
 
 You can find your API Key at the bottom of the Settings tab in your project dashboard:
-
-
-.. _apimato:
 
 Apimato
 ------
