@@ -2,11 +2,11 @@ Testing Locations
 =================
 
 :doc:`Testomatobot </testomatobot/about>` is Testomato's crawling tool, which is
- used to download the HTML code of your page content.
+used to download the HTML code of your page content.
 
 In some cases, network latency between our users and Testomatobot can cause
- false timeouts and affects the ability to get a project's test results when
- it's located farther away.
+false timeouts and affects the ability to get a project's test results when
+it's located farther away.
 
 To avoid this issue, we offer other Testomatobot testing locations to minimize
 the influence of our connection.
