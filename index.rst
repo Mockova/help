@@ -1,5 +1,5 @@
- Testomato HELP
-================
+Testomato HELP
+==============
 
 .. toctree::
    :maxdepth: 2
