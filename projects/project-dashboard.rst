@@ -1,21 +1,11 @@
 Project Dashboard
 =================
 
-This article explains what a project dashboard is and how to read it.
+This article explains what a **project dashboard** is and how to read it.
 
 .. contents:: In this article
    :local:
    :depth: 1
-
-Project Dashboards
-------------------
-
-Project dashboards are meant to help you get a basic overview of what's going
-on in your projects in a quick way.
-
-When you sign in to Testomato, we want you to be able to know if there are
-problems the minute you see your dashboard. That's why boxes will change
-color according to the status of each check.
 
 Here is a project dashboard:
 
