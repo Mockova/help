@@ -14,11 +14,10 @@ to occur.
 Location Matters
 ----------------
 
-`Uptime Monitoring </uptime/what-is-uptime-monitoring>`_ in Testomato is
-done externally rather than internally. This means that
-:doc:`Testomatobot </testomatobot/about>` tests and monitors your site or
-server from a location that is outside the local network where your server is
-hosted.
+:doc:`Uptime Monitoring </uptime/what-is-uptime-monitoring>`  in Testomato is
+done externally rather than internally. This means that :doc:`Testomatobot </testomatobot/about>`
+tests and monitors your site or server from a location that is outside the local
+network where your server is hosted.
 
 In some cases, a project may be unavailable to Testomato a very short period of
 time due to problems with network latency, i.e.  how long it takes data to get
