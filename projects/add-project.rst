@@ -14,8 +14,6 @@ Click **+Add project** in the top left corner.
    :alt: Create projects
    :align: center
 
+2. Click **Create project**. Your new project will be created and added to your main dashboard.
 
 .. warning:: You can create multiple projects at once by putting each new URL on a separate line.
-
-2. Click **Create project**. Your new project will be created and added to your
-  main dashboard.
