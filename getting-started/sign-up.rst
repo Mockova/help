@@ -1,5 +1,5 @@
-How to Sign Up for Testomato
-============================
+Sign Up for Testomato
+=====================
 
 .. _Sign Up page: https://www.testomato.com/sign-up/
 
