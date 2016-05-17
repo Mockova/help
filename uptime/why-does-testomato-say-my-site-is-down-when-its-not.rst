@@ -14,7 +14,7 @@ to occur.
 Location Matters
 ----------------
 
-:doc:`Uptime Monitoring </uptime/what-is-uptime-monitoring>` in Testomato is
+`Uptime Monitoring </uptime/what-is-uptime-monitoring>`_ in Testomato is
 done externally rather than internally. This means that
 :doc:`Testomatobot </testomatobot/about>` tests and monitors your site or
 server from a location that is outside the local network where your server is
