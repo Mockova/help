@@ -3,7 +3,6 @@ Support
 
 If you would like to participate in the future development of our roadmap,
 please don’t be shy! We'd love to hear your suggestions: support@testomato.com.
-
 You can email us anytime!
 
 * `Contact Form <https://www.testomato.com/contact>`_
