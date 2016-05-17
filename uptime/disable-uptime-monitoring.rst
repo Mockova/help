@@ -1,5 +1,5 @@
-Disable Uptime Monitoring & Response Time?
-==========================================
+Disable Uptime Monitoring
+=========================
 
 Site downtime can mean loss of revenue and user trust, so it’s important to stay
 one step ahead by knowing when your website is up or down.
