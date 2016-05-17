@@ -38,7 +38,7 @@ Testomato HELP
 
 .. toctree::
    :maxdepth: 2
-   :caption: User Accounts & Roles
+   :caption: User Accounts
    :glob:
 
    account/*
