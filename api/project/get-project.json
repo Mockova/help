@@ -1,0 +1,19 @@
+{
+    "name": "testomato",
+    "url": "http://www.testomato.com",
+    "title": "Testomato",
+    "period": "5 minutes",
+    "timeout": 3,
+    "delay": 70,
+    "apiKey": "XXXXXX",
+    "userIds": [
+        "7",
+        "292",
+        "291",
+        "29",
+        "9",
+        "243"
+    ],
+    "payerId": "7",
+    "id": "50a9f72f14db3be812000233"
+}

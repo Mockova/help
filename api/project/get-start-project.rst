@@ -1,16 +1,16 @@
-GET Project Results
-===================
+GET Start Project
+=================
 
-Return Project Results
+Run Project Checks and return results URL.
 
 Request
 -------
 
-:code:`GET /project/{id}/job/{jobid}/results`
+:code:`GET /project/{id}/start?{apikey=value}`
 
 .. code-block:: bash
 
-   curl "https://www.testomato.com/api/project/{id}/job/{jobid}/results?{apikey=value}"
+   curl "https://www.testomato.com/api/project/{id}/start?{apikey=value}"
 
 Request Parameters
 ~~~~~~~~~~~~~~~~~~
@@ -19,14 +19,13 @@ Request Parameters
 Parametter     Description
 ============== =================================================================
 id             Your project ID or project name (*required*)
-jobid          A selected job ID (*required*)
 apikey         An API key unique to each project (*required*)
 ============== =================================================================
 
 Response
 --------
 
-.. literalinclude:: /api/project/get-results.json
+.. literalinclude:: /api/project/get-start-project.json
    :language: json
 
 Response Parameters
@@ -35,11 +34,8 @@ Response Parameters
 ============== =================================================================
 Parametter     Description
 ============== =================================================================
-jobId          A unique project job ID
-startedAt      Time when job started (unix timestamp)
-duration       Duration of the job
-total          The total number of tests performed
-failed         The number of failed tests
-areas          List of protected areas IDs
-results        Array of test results – each result has a testId, testName etc.
+projectId      A unique project ID
+jobId	         A unique ID for each project job
+start	         **ok** means your tests have successfully started
+results	       The URL where you can view your results
 ============== =================================================================
