@@ -11,7 +11,6 @@ alerts you when something goes wrong. With Testomato, it’s easy to set up
 complex tests in seconds and protect your business from losing customers
 due to unexpected website problems.
 
-
 .. toctree::
    :maxdepth: 2
    :caption: Getting Started

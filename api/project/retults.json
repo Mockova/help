@@ -1,0 +1,168 @@
+{
+    "jobId": "5478608abd5be3fc75fcc140",
+    "startedAt": 1417175178,
+    "duration": 0.2393970489502,
+    "total": 14,
+    "failed": 0,
+    "areas": [
+      null
+    ],
+    "results": [
+        {
+            "areaId": null,
+            "testId": "546b8641bd5be36a39b3eccc",
+            "testName": "Homepage",
+            "status": "ok",
+            "failures": [],
+            "testUnits": [
+                {
+                    "failures": [],
+                    "visible": false,
+                    "name": "Download",
+                    "params": [],
+                    "status": "ok"
+                },
+                {
+                    "failures": [],
+                    "visible": false,
+                    "name": "Timeout",
+                    "params": [],
+                    "status": "ok"
+                },
+                {
+                    "failures": [],
+                    "visible": true,
+                    "name": "HTTP status",
+                    "params": {
+                        "checkStatus": 200
+                    },
+                    "status": "ok"
+                },
+                {
+                    "failures": [],
+                    "visible": false,
+                    "name": "common error messages",
+                    "params": [],
+                    "status": "ok"
+                }
+            ],
+            "response": {
+                "status": 200,
+                "httpStatus": 200,
+                "baseUrl": "http:\/\/www.testomato.com\/",
+                "processTime": 0.037,
+                "size": 14758,
+                "timing": [
+                    {
+                        "metric": "DNS Lookup",
+                        "value": 3
+                    },
+                    {
+                        "metric": "Initial connection",
+                        "value": 5
+                    },
+                    {
+                        "metric": "Request",
+                        "value": 0
+                    },
+                    {
+                        "metric": "Waiting",
+                        "value": 31
+                    },
+                    {
+                        "metric": "Content download",
+                        "value": 1
+                    },
+                    {
+                        "metric": "Total",
+                        "value": 37
+                    }
+                ],
+                "redirects": [],
+                "responseSize": null
+            },
+            "request": {
+                "url": "http:\/\/www.testomato.com\/",
+                "method": "GET"
+            }
+        },
+        {
+            "areaId": null,
+            "testId": "546b8641bd5be36a39b3ecce",
+            "testName": "Blog",
+            "status": "ok",
+            "failures": [],
+            "testUnits": [
+                {
+                    "failures": [],
+                    "visible": false,
+                    "name": "Download",
+                    "params": [],
+                    "status": "ok"
+                },
+                {
+                    "failures": [],
+                    "visible": false,
+                    "name": "Timeout",
+                    "params": [],
+                    "status": "ok"
+                },
+                {
+                    "failures": [],
+                    "visible": true,
+                    "name": "HTTP status",
+                    "params": {
+                        "checkStatus": 200
+                    },
+                    "status": "ok"
+                },
+                {
+                    "failures": [],
+                    "visible": false,
+                    "name": "common error messages",
+                    "params": [],
+                    "status": "ok"
+                }
+            ],
+            "response": {
+                "status": 200,
+                "httpStatus": 200,
+                "baseUrl": "http:\/\/blog.testomato.com\/",
+                "processTime": 0.137,
+                "size": 29661,
+                "timing": [
+                    {
+                        "metric": "DNS Lookup",
+                        "value": 9
+                    },
+                    {
+                        "metric": "Initial connection",
+                        "value": 3
+                    },
+                    {
+                        "metric": "Request",
+                        "value": 20
+                    },
+                    {
+                        "metric": "Waiting",
+                        "value": 112
+                    },
+                    {
+                        "metric": "Content download",
+                        "value": 2
+                    },
+                    {
+                        "metric": "Total",
+                        "value": 137
+                    }
+                ],
+                "redirects": [],
+                "responseSize": null
+            },
+            "request": {
+                "url": "http:\/\/blog.testomato.com\/",
+                "method": "GET"
+            }
+        }
+    ]
+}
