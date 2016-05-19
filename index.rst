@@ -79,4 +79,4 @@ due to unexpected website problems.
    :caption: Testomato API
    :glob:
 
-   api/*
+   api/**
