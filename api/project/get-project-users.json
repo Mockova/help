@@ -1,0 +1,32 @@
+[
+    {
+        "id": "29",
+        "email": "honza@testomato.com",
+        "phone": null,
+        "name": "John Tomato",
+        "confirmed": true,
+        "timezone": "Europe\/Berlin",
+        "reportPeriod": "day",
+        "notificationEmail": null,
+        "notificationDelay": 0,
+        "pagerDutyApiKey": null,
+        "roles": [
+            {
+                "name": "project admin",
+                "users_id": null,
+                "id": "4",
+                "permissions": [
+                    "read",
+                    "run",
+                    "editTests",
+                    "edit",
+                    "manageUsers",
+                    "apiKey"
+                ],
+                "systemRole": true,
+            }
+        ],
+        "isPayer": true,
+        "canBeRemoved": false
+    }
+]
