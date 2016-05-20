@@ -1,16 +1,15 @@
-/api/project/*
-==============
+/api/project/
+=============
 
-.. toctree:: GET Requests
+This API endpoint allow work with project e.g. get projects results,
+run all checks in project, share with users etc.
+
+.. toctree::
+   :caption: Postible Actions
    :maxdepth: 1
-   :caption:
    :glob:
 
-   /api/project/get-*
-
-.. toctree:: POST Requests
-   :maxdepth: 1
-   :caption:
-   :glob:
-
-   /api/project/post-*
+   get-*
+   post-*
+   delete-*
+   put-*

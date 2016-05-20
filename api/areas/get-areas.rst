@@ -1,5 +1,5 @@
-GET List of Groups
-==================
+GET List of Areas
+=================
 
 Get a List of Groups in a Project
 
