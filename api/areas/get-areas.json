@@ -1,0 +1,27 @@
+[
+    {
+        "id": "55ae149a25b395db5c8b45ea",
+        "projectId": "557ecb1625b3955f528b4577",
+        "name": "Public",
+        "public": true,
+        "rules": [
+            {
+                "type": "status",
+                "op": "!match",
+                "val": "^5"
+            },
+            {
+                "type": "text",
+                "op": "!sub",
+                "val": "Service Unavailable"
+            }
+        ]
+    },
+    {
+        "id": "55ae605125b3959e338b456e",
+        "projectId": "557ecb1625b3955f528b4577",
+        "name": "App",
+        "public": false,
+        "rules": []
+    }
+]
