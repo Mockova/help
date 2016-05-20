@@ -1,8 +1,6 @@
 GET Project users
 =================
 
-
-
 Request
 -------
 

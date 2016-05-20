@@ -79,4 +79,6 @@ due to unexpected website problems.
    :caption: Testomato API
    :glob:
 
-   api/**
+   api/**/index
+   api/about
+   api/common
