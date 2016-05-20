@@ -1,12 +1,10 @@
-GET User projects
-=================
+List User Projects :code:`GET /user/{id}/projects`
+=================================================
 
-Return list of all User Projects
+Return list of all Users Projects
 
 Request
 -------
-
-:code:`GET /user/{id}/projects`
 
 .. code-block:: bash
 
