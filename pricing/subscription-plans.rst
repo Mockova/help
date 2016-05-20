@@ -18,7 +18,7 @@ Plan             domains          checks      urls        shared with uptime mon
 ================ ================ =========== =========== =========== =====================
 
 
-Get more information on `Testomato Pricing Page <https:://www.testomato.com/pricing>`_
+Get more information on `Testomato Pricing Page <https://www.testomato.com/pricing>`_
 
 Important things you need to know about Testomato's plans:
 
