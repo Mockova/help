@@ -1,12 +1,10 @@
-GET Project
-===========
+GET /project/{id}/
+==================
 
-Return Project Information
+This endpoint return Project Information
 
 Request
 -------
-
-:code:`GET /project/{id}/`
 
 .. code-block:: bash
 

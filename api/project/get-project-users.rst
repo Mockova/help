@@ -1,11 +1,8 @@
-GET Project users
-=================
+Project users (:code:`GET /project/{projectId}/users`)
+======================================================
 
 Request
 -------
-
-:code:`GET /project/{projectId}/users`
-
 .. code-block:: bash
 
     curl "https://www.testomato.com/api/project/{projectId}/users?{apikey=value}"
