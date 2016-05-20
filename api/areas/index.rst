@@ -4,7 +4,7 @@
 This API endpoint allow work with :doc:`project </api/project/index>` areas (groups).
 
 .. toctree::
-   :caption: Possible actions
+   :caption: Possible Actions
    :maxdepth: 1
    :glob:
 

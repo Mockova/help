@@ -1,12 +1,10 @@
-POST Create page check
-======================
+Create page check :code:`POST /test`
+====================================
 
 Create new page check with rules.
 
 Request
 -------
-
-:code:`POST /test`
 
 .. code-block:: bash
 

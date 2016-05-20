@@ -1,10 +1,8 @@
-POST Share a Project
-====================
+Share a Project :code:`POST /project/{projectId}/users`
+=======================================================
 
 Request
 -------
-
-:code:`POST /project/{projectId}/users`
 
 .. code-block:: bash
     curl -X POST -H 'Content-Type: application/json' \

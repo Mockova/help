@@ -1,12 +1,10 @@
-GET List of Areas
-=================
+List Project Areas (groups) :code:`GET /areas/{projectId}`
+==========================================================
 
-Get a List of Groups in a Project
+Get a List of Areas (groups) in a :doc:`Project </api/project/index>`
 
 Request
 -------
-
-:code:`GET /areas/{projectId}`
 
 .. code-block:: bash
 

@@ -1,5 +1,5 @@
-GET /project/{id}/
-==================
+Read Project Information :code:`GET /project/{id}/`
+===================================================
 
 This endpoint return Project Information
 

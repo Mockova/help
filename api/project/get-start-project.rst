@@ -1,12 +1,10 @@
-GET Start Project
-=================
+Start Project Checks :code:`GET /project/{id}/start?{apikey=value}`
+===================================================================
 
 Run Project Checks and return results URL.
 
 Request
 -------
-
-:code:`GET /project/{id}/start?{apikey=value}`
 
 .. code-block:: bash
 

@@ -1,12 +1,10 @@
-GET Project Results
-===================
+Read Project Results :code:`GET /project/{id}/job/{jobid}/results`
+==================================================================
 
 Return Project Results
 
 Request
 -------
-
-:code:`GET /project/{id}/job/{jobid}/results`
 
 .. code-block:: bash
 
