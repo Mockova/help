@@ -1,5 +1,5 @@
-Project users (:code:`GET /project/{projectId}/users`)
-======================================================
+Get project users and their Roles :code:`GET /project/{projectId}/users`
+========================================================================
 
 Request
 -------
