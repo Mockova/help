@@ -1,0 +1,43 @@
+{
+    "project": {
+        "id": "571a5db67902f7e1748b4598",
+        "lastRun": 1461659087,
+        "lastChange": 1461395334,
+        "status": "ok",
+        "msg": "Server returned HTTP status 200",
+    },
+    "total": 28,
+    "failed": 0,
+    "tests": [
+        {
+            "id": "50a9f73014db3be812000234",
+            "areaId": "55ae166c25b395537a8b6029",
+            "name": "Homepage",
+            "url": "http:\/\/www.testomato.com\/",
+            "status": {
+                "status": "ok",
+                "failures": [],
+                "rules": [
+                    {
+                        "type": "status",
+                        "op": "eq",
+                        "val": "200"
+                    }
+                ],
+                "response": {...},
+                "request": {...},
+                "lastChange": 1459345973,
+                "lastRun": 1461658995
+            },
+            "templateId": false,
+            "templateVars": [],
+            "rules": [
+                {
+                    "type": "status",
+                    "op": "eq",
+                    "val": "200"
+                }
+            ]
+        }
+    ]
+}
