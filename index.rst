@@ -75,10 +75,10 @@ due to unexpected website problems.
    pricing/*
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Testomato API
    :glob:
 
-   api/**/index
    api/about
+   api/**/index
    api/common

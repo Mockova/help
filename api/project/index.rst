@@ -1,10 +1,16 @@
-Project
-=======
+/api/project/*
+==============
 
-GET requests
-
-.. toctree::
-   :maxdepth: 2
+.. toctree:: GET Requests
+   :maxdepth: 1
    :caption:
+   :glob:
 
-   api/
+   /api/project/get-*
+
+.. toctree:: POST Requests
+   :maxdepth: 1
+   :caption:
+   :glob:
+
+   /api/project/post-*
