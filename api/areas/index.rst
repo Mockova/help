@@ -1,9 +1,9 @@
-/api/areas/*
-============
+/api/areas/
+===========
 
-.. toctree:: GET Requests
+.. toctree::
+   :caption: GET Requests
    :maxdepth: 2
-   :caption:
    :glob:
 
-   *
+   get-*
