@@ -1,8 +1,7 @@
 User :code:`/api/user/*`
 =======================
 
-This API endpoint allow work with project e.g. get projects results,
-run all checks in project, share with users etc.
+This API endpoint allow work with users
 
 .. toctree::
    :caption: Possible Actions
