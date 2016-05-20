@@ -1,5 +1,5 @@
-Areas (/api/areas/*)
-====================
+/api/areas/*
+============
 
 .. toctree:: GET Requests
    :maxdepth: 2
