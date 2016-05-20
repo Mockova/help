@@ -30,9 +30,9 @@ Parametter     Description
 email          Email of the user that will be added. If he isn't a Testomato
                user, an invitation email will be sent.
 role           Project role ID:
-                - **4** (admin)
-                - **5** (developer)
-                - **6** (guest)
+               - **4** (admin)
+               - **5** (developer)
+               - **6** (guest)
 ============== =================================================================
 
 .. code-block:: json
@@ -41,4 +41,3 @@ role           Project role ID:
     "email": "user@email.cz",
     "role":6
   }
-  
