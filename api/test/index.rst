@@ -1,5 +1,5 @@
-Check/test :code:`/api/test/*`
-=============================
+Pages & checks :code:`/api/test/*`
+==================================
 
 This API endpoint allow work with checks (tests)
 
