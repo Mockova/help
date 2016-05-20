@@ -2,8 +2,8 @@ Areas (/api/areas/*)
 ====================
 
 .. toctree:: GET Requests
-   :maxdepth: 1
+   :maxdepth: 2
    :caption:
    :glob:
 
-   get-*
+   *
