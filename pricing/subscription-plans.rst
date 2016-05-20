@@ -25,8 +25,8 @@ Important things you need to know about Testomato's plans:
 * All of our plans allow checks to be run every 5 minutes, and our new Enterprise Plan will run checks as often as every minute.
 * Testomato offers both monthly and yearly payment options.
 * Payments are billed at the beginning of the payment period (instead of at the end).
-*The amount of websites and users are different depending on what plan you choose. You can add additional users per plan.
-*The amount of checks is equal to the total amount of checks that can be run across all websites you're monitoring.
+* The amount of websites and users are different depending on what plan you choose. You can add additional users per plan.
+* The amount of checks is equal to the total amount of checks that can be run across all websites you're monitoring.
 
 If you're unsure about anything and have more questions about our pricing plans,
 contact our team any time: support@testomato.com.
