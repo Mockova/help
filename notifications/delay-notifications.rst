@@ -11,7 +11,7 @@ How to Delay Email Notifications
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 In the account menu (located in the top right corner),
-select :doc:`Instant Notifications </account/profile-settings>` or
+select :doc:`Instant Notifications </notifications/instant-notifications>` or just
 visit `Instant Notifications Settings <https://www.testomato.com/user/notifications-settings>`_.
 
 .. image:: /notifications/instant-notifications.png
