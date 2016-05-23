@@ -10,7 +10,9 @@ issue at 2:45PM, we will wait until 2:55PM to send you an email alert.
 How to Delay Email Notifications
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-In the account menu (located in the top right corner), select :doc:`Instant Notifications </account/profile-settings>` or visit `Instant Notifications Settings <https://www.testomato.com/user/notifications-settings>`_ page
+In the account menu (located in the top right corner),
+select :doc:`Instant Notifications </account/profile-settings>` or
+visit `Instant Notifications Settings <https://www.testomato.com/user/notifications-settings>`_.
 
 .. image:: /notifications/instant-notifications.png
    :alt: Instant Notifications Settings
