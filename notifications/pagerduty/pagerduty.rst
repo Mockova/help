@@ -27,7 +27,7 @@ Then click the Integrations tab and click the **+New Integration button**.
    :alt: Pagerduty Integration - Add new Service
    :align: center
 
-.. image:: /notifications/pagerduty/new-integration.jpg
+.. image:: /notifications/pagerduty/new-integration.png
    :alt: Pagerduty Integration - new integration
    :align: center
 
@@ -46,7 +46,7 @@ integration. You will be redirected to the Integrations page for your service.
 
 4. Copy the Integration Key for your new integration:
 
-.. image:: /notifications/pagerduty/RS-integration-key.jpg
+.. image:: /notifications/pagerduty/integration-key.png
    :alt: Pagerduty Integration Key
    :align: center
 
@@ -56,7 +56,7 @@ In Testomato
 1. Open `Instant Notifications Settings <https://www.testomato.com/user/notifications-settings>`_
 page in Testomato, scroll down to PagerDuty integration.
 
-.. image:: /notifications/pagerduty/pagerduty.png
+.. image:: /notifications/pagerduty/pagerduty-settings.png
    :alt: Pagerduty Integration
    :align: center
 
