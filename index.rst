@@ -58,7 +58,7 @@ due to unexpected website problems.
    :caption: Notifications
    :glob:
 
-   notifications/*
+   notifications/**
 
 .. toctree::
    :maxdepth: 2
