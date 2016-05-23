@@ -27,7 +27,7 @@ Then click the Integrations tab and click the **+New Integration button**.
    :alt: Pagerduty Integration - Add new Service
    :align: center
 
-.. image:: /notifications/pagerduty/new-integration.png
+.. image:: /notifications/pagerduty/new-integration.jpg
    :alt: Pagerduty Integration - new integration
    :align: center
 
@@ -40,7 +40,7 @@ for your new service.
 5. Click the **Add Service** or **Add Integration** button to save your new
 integration. You will be redirected to the Integrations page for your service.
 
-.. image:: notifications/pagerduty/integration-settings.png
+.. image:: /notifications/pagerduty/integration-settings.png
    :alt: Pagerduty Integration Settings
    :align: center
 
