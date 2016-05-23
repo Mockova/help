@@ -42,7 +42,7 @@ Tests that fail for the following tests are considered errors:
 * Text found and missing text (string tests)
 * Download Error (Testomatobot is unable to download page content)
 
-Change Notifications Secerity
+Change Notifications Severity
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 How to set a severity level for email notifications:
