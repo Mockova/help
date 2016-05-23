@@ -21,6 +21,6 @@ visit `Instant Notifications Settings <https://www.testomato.com/user/notificati
 Scroll to **Notifications** and select the period you liked to wait
 before notifications are sent and click Save.
 
-.. image:: /account/delay-notifications.png
+.. image:: /notifications/delay-notifications.png
    :alt: Delay Notifications Settings
    :align: center
