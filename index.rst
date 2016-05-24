@@ -15,6 +15,7 @@ due to unexpected website problems.
    :maxdepth: 1
    :caption: Getting Started
    :glob:
+
    getting-started/*
    getting-started/support
 
@@ -22,54 +23,63 @@ due to unexpected website problems.
     :maxdepth: 1
     :caption: User Accounts
     :glob:
+
     account/*
 
 .. toctree::
    :maxdepth: 1
    :caption: Pricing & Billing
    :glob:
+
    pricing/*
 
 .. toctree::
    :maxdepth: 1
    :caption: Projects
    :glob:
+
    projects/*
 
 .. toctree::
    :maxdepth: 1
    :caption: Checks
    :glob:
+
    checks/*
 
 .. toctree::
    :maxdepth: 1
    :caption: Monitoring
    :glob:
+
    monitoring/*
 
 .. toctree::
    :maxdepth: 1
    :caption: Uptime monitoring
    :glob:
+
    uptime/*
 
 .. toctree::
    :maxdepth: 1
    :caption: Notifications
    :glob:
+
    notifications/**
 
 .. toctree::
    :maxdepth: 1
    :caption: Reports
    :glob:
+
    reports/*
 
 .. toctree::
    :maxdepth: 1
    :caption: Testomato API
    :glob:
+
    api/about
    api/**/index
    api/common
