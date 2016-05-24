@@ -1,5 +1,5 @@
-/api/areas/
-===========
+Project areas :code:`/api/areas/*`
+==================================
 
 This API endpoint allow work with :doc:`project </api/project/index>` areas (groups).
 
