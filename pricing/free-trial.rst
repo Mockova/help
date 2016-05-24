@@ -11,6 +11,5 @@ Here’s what to expect from your free trial:
 * Email tips showing you how to use Testomato’s features
 * A few reminders towards the end of your trial
 
-
 If you choose a paid plan, you won’t be upgraded until the end of the trial
 period. We will never charge you automatically unless you’ve given us permission.
