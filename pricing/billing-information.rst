@@ -10,10 +10,6 @@ Change Payment Details
 1. Open Account menu (located in the top right corner) and click to **Payment Details**,
 or visit `direct link <https://testomato.dev/user/account/payment-details>`_.
 
-.. image:: /pricing/billing-information.png
-   :alt: Billing information
-   :align: center
-
 2. Edit your credit card information.
 
 .. image:: /pricing/payment-details.png
