@@ -16,12 +16,12 @@ due to unexpected website problems.
    getting-started/*
    getting-started/support
 
- .. toctree::
-    :maxdepth: 1
-    :caption: User Accounts
-    :glob:
+.. toctree::
+   :maxdepth: 1
+   :caption: User Accounts
+   :glob:
 
-    account/*
+   account/*
 
 .. toctree::
    :maxdepth: 1
