@@ -1,6 +1,3 @@
-Testomato HELP
-==============
-
 .. image:: /logo.png
    :alt: Testomato
    :align: center
