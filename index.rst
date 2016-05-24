@@ -12,73 +12,64 @@ complex tests in seconds and protect your business from losing customers
 due to unexpected website problems.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Getting Started
    :glob:
-
    getting-started/*
+   getting-started/support
+
+ .. toctree::
+    :maxdepth: 1
+    :caption: User Accounts
+    :glob:
+    account/*
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Uptime monitoring
+   :maxdepth: 1
+   :caption: Pricing & Billing
    :glob:
-
-   uptime/*
+   pricing/*
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Projects
    :glob:
-
    projects/*
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Monitoring
-   :glob:
-
-   monitoring/*
-
-.. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Checks
    :glob:
-
    checks/*
 
 .. toctree::
-   :maxdepth: 2
-   :caption: User Accounts
+   :maxdepth: 1
+   :caption: Monitoring
    :glob:
-
-   account/*
+   monitoring/*
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
+   :caption: Uptime monitoring
+   :glob:
+   uptime/*
+
+.. toctree::
+   :maxdepth: 1
    :caption: Notifications
    :glob:
-
    notifications/**
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Reports
    :glob:
-
    reports/*
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Pricing & Billing
-   :glob:
-
-   pricing/*
 
 .. toctree::
    :maxdepth: 1
    :caption: Testomato API
    :glob:
-
    api/about
    api/**/index
    api/common
