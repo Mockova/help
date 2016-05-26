@@ -31,8 +31,8 @@ Field          Description
 ============== =================================================================
 name           Name of the check (if skipped, a page title will be used)
 url            URL of the page that will be checked
-rules          An array of individual checks see Rules_ table (*optional*)
-options        Options_ for checks (*optional*)
+rules          `An array of individual checks <Check syntax>`_ (*optional*)
+options        `Options for checks <Options syntax>`_ (*optional*)
 ============== =================================================================
 
 .. code-block:: json
@@ -51,8 +51,8 @@ options        Options_ for checks (*optional*)
     }
 
 
-Rules
-~~~~~
+Rules syntax
+~~~~~~~~~~~~
 
 ============== ================ ================================================
 Field          Possible values	Description
@@ -74,8 +74,8 @@ op             * eq             is equal to (only for HTTP status), contains or
 val            any string       Checked string, regex or XPath expression
 ============== ================ ================================================
 
-Options
-~~~~~~~
+Options syntax
+~~~~~~~~~~~~~~
 
 ============== ================ ================================================
 Field          Possible values	Description
