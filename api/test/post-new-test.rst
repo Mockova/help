@@ -31,7 +31,7 @@ Field          Description
 ============== =================================================================
 name           Name of the check (if skipped, a page title will be used)
 url            URL of the page that will be checked
-rules          An array of individual checks (*optional*)
+rules          An array of individual checks see Rules_ table (*optional*)
 options        Options_ for checks (*optional*)
 ============== =================================================================
 
@@ -40,16 +40,19 @@ options        Options_ for checks (*optional*)
     {
       "name":"My Test",
       "url":"http://mysite.com/checked-page",
-      "rules": [{
+      "rules": [
+        {
           "type": "text",
           "op": "match",
           "val": "testomato"
-        }]
-      }
+        }
+      ],
+      "options" : {"g" : true, "l" : true, "6" : true}
+    }
 
 
-Check syntax
-~~~~~~~~~~~~
+Rules
+~~~~~
 
 ============== ================ ================================================
 Field          Possible values	Description
@@ -77,8 +80,8 @@ Options
 ============== ================ ================================================
 Field          Possible values	Description
 ============== ================ ================================================
-g              true | false     Do not accept gzip encoding (default false)
-l              true | false     Do not follow redirects (default false)
-6              true | false     Only IPv6 (default false)
+g              true | false     Do not accept gzip encoding (*default false*)
+l              true | false     Do not follow redirects (*default false*)
+6              true | false     Only IPv6 (*default false*)
 w              any string       Extra HTTP headers
 ============== ================ ================================================
