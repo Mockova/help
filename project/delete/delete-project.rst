@@ -1,11 +1,11 @@
 Delete Project
 ==============
 
-1. Head to the **Project Settings** in your :doc:`Project dashboard </projects/project-dashboard>`.
+1. Head to the **Project Settings** in your :doc:`Project dashboard </project/project-dashboard>`.
 
 2. Scroll down and click **Delete Project**.
 
-.. image:: /projects/delete-project.png
+.. image:: /project/delete/delete-project.png
    :alt: Delete project
    :align: center
 

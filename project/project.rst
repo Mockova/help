@@ -10,9 +10,9 @@ as any custom created checks you create.
 
 Projects will also be displayed on your main dashboard
 (`All Projects <https://www.testomato.com>`_).
-To view a :doc:`project dashboard </projects/project-dashboard>`, simply click
+To view a :doc:`project dashboard </project/project-dashboard>`, simply click
 on the project's name:
 
-.. image:: /projects/project.png
+.. image:: /project/project.png
    :alt: Single Project
    :align: center

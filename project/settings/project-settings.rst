@@ -13,6 +13,6 @@ The following settings are available for projects:
 * Select a different **User Agent string**.
 * **Delete** a project permanently.
 
-.. image:: /projects/project-settings.png
+.. image:: /project/project-settings/project-settings.png
    :alt: Project Settings
    :align: center

@@ -48,7 +48,7 @@ Change Notifications Severity
 How to set a severity level for email notifications:
 
 Open :doc:`Instant Notifications Settings </notifications/instant-notifications>`
-or just open a :doc:`Project Settings </projects/project-settings>`.
+or just open a :doc:`Project Settings </project/project-settings>`.
 Then scroll down to *Projects Notifications* and chose your preferences.
 
 .. image:: /notifications/notifications-severity.png

@@ -15,7 +15,7 @@ due to unexpected website problems.
    :caption: Getting Started
    :glob:
 
-   getting-started/*
+   getting-started/**
    getting-started/support
 
 .. toctree::
@@ -23,21 +23,22 @@ due to unexpected website problems.
    :caption: User Accounts
    :glob:
 
-   account/*
+   account/**
 
 .. toctree::
    :maxdepth: 1
    :caption: Pricing & Billing
    :glob:
 
-   pricing/*
+   pricing/**
 
 .. toctree::
    :maxdepth: 1
-   :caption: Projects
+   :caption: Project & Dashboard
    :glob:
 
-   projects/*
+   dsahboard/**
+   project/**
 
 .. toctree::
    :maxdepth: 1
@@ -51,14 +52,14 @@ due to unexpected website problems.
    :caption: Monitoring
    :glob:
 
-   monitoring/*
+   monitoring/**
 
 .. toctree::
    :maxdepth: 1
    :caption: Uptime monitoring
    :glob:
 
-   uptime/*
+   uptime/**
 
 .. toctree::
    :maxdepth: 1
@@ -72,7 +73,7 @@ due to unexpected website problems.
    :caption: Reports
    :glob:
 
-   reports/*
+   reports/**
 
 .. toctree::
    :maxdepth: 1

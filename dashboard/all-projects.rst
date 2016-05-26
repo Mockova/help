@@ -4,7 +4,7 @@ All Projects
 **All Projects** are meant to help you get a basic overview of what's going
 on in your projects in a quick way.
 
-.. image:: /projects/all-projects.png
+.. image:: /dashboard/all-projects.png
    :alt: All Projects
    :align: center
 
@@ -20,4 +20,4 @@ There are only **4 possible colors** for boxes:
 4. **Gray**: This page has not been configured yet, has been *turned off*, or whose results are not available.
 
 By clicking to **Project Name** or **Open** button it's possible to open
-:doc:`Project Dashboard </projects/project-dashboard>`.
+:doc:`Project Dashboard </project/dashboard/project-dashboard>`.

@@ -7,19 +7,19 @@ Groups come in handy when have rules you want to apply to a specific set of page
 
 2. Click **Create group** at the bottom of the page.
 
-.. image:: /projects/create-group.png
+.. image:: /project/group/create-group.png
    :alt: Create Group
    :align: center
 
 3. Click **Add check** and define your rules for the group and click **Next**.
 
-.. image:: /projects/create-group-add-check.png
+.. image:: /project/group/create-group-add-check.png
    :alt: Add check
    :align: center
 
 4. Name your Group and click  Save. name group
 
-.. image:: /projects/create-group-name.png
+.. image:: /project/group/create-group-name.png
    :alt: Add group name
    :align: center
 
