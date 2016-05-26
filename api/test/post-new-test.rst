@@ -32,6 +32,7 @@ Field          Description
 name           Name of the check (if skipped, a page title will be used)
 url            URL of the page that will be checked
 rules          An array of individual checks (*optional*)
+options        Options_ for checks (*optional*)
 ============== =================================================================
 
 .. code-block:: json
@@ -68,4 +69,16 @@ op             * eq             is equal to (only for HTTP status), contains or
                * xpath
 
 val            any string       Checked string, regex or XPath expression
+============== ================ ================================================
+
+Options
+~~~~~~~
+
+============== ================ ================================================
+Field          Possible values	Description
+============== ================ ================================================
+g              true | false     Do not accept gzip encoding (default false)
+l              true | false     Do not follow redirects (default false)
+6              true | false     Only IPv6 (default false)
+w              any string       Extra HTTP headers
 ============== ================ ================================================
