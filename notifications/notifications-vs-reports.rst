@@ -29,4 +29,4 @@ Reports are sent about the following:
 * The minimum, median, and maximum length of issues.
 
 Reports can be sent once a day, once a week, twice a month, once a month, or
-never. To schedule your reports, please visit :doc:`Profile Settings </account/profile-settings>` in your account menu.
+never. To schedule your reports, please visit :doc:`Profile Settings </account/settings/profile-settings>` in your account menu.
