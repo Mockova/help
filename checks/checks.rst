@@ -64,7 +64,7 @@ Other Ways to Use checks
 * HTML on page
 * HTTP header content
 
-.. image:: /check§/text-on-page.png
+.. image:: /check/text-on-page.png
    :alt: Check for text on Page
    :align: center
 
