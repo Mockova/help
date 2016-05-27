@@ -42,8 +42,8 @@ ERROR: Project not found
 .. code-block:: json
 
     {
-	    "message": "Project \"xxxx\" not found.",
-	    "code": 404,
-	     "ok": false,
-	    "error": true
-	  }
+     "message": "Project \"xxxx\" not found.",
+     "code": 404,
+     "ok": false,
+     "error": true
+    }
