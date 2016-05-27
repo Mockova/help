@@ -1,6 +1,14 @@
 Check Examples
 ==============
 
+Monitoring strings is one of Testomato's most versatile features, but one that
+often gets overlooked.
+
+There are a lot of ways to use strings in your checks that might not be obvious.
+With that in mind, this article will show you a few ways you can use strings
+to check your website.
+
+
 Check for Facebook meta tags
 ----------------------------
 
@@ -35,9 +43,8 @@ Check for :code:`<title>` content
 ================ ================ ==============================================
 Source           Method           Rule
 ================ ================ ==============================================
-HTML On Page     contains         :code:`<h1>Hello, I'm Roman.</h1>`
-HTML On Page     matches          :code:`<h1>.*</h1>`
-HTML On Page     matches          :code:`<h1>Hello.*</h1>`
+HTML On Page     contains         :code:`<title>Hello, I'm Roman.</title>`
+HTML On Page     matches          :code:`<title>.*</title>`
 ================ ================ ==============================================
 
 Check for :code:`<h1>` content
@@ -65,13 +72,27 @@ HTML On Page     contains         :code:`UA-xxxxxx-x`
 
 .. note:: Replace UA-xxxxxx-x with your real Google Analytics ID code.
 
-
 Important page elements
 -----------------------
+
 ================ ================ ==============================================
 Source           Method           Rule
 ================ ================ ==============================================
 HTML On Page     contains         :code:`<button>Sign Up</button>`
 HTML On Page     contains         :code:`<button>Add to cart</button>`
 HTML On Page     contains         :code:`<div id="cart"`
+================ ================ ==============================================
+
+
+HTTP Header Testing
+-------------------
+
+Test for HTTP headers to ensure that an application is responding, the correct
+cookie is served, or an API returns the correct content-type (e.g. application/JSON).
+
+================ ================ ==============================================
+Source           Method           Rule
+================ ================ ==============================================
+HTTP Header      contains         :code:`wikidi-http-header:X-Powered-By:PHP/5`
+HTTP Header      contains         :code:`wikidi-http-header:Content-Type:application/json`
 ================ ================ ==============================================
