@@ -14,16 +14,15 @@ the influence of our connection.
 This means that Testomatobot downloads pages and measures response times
 from the following locations:
 
-* USA (San Jose, California)
-* USA (Dallas, Texas)
-* USA  (Chicago, Illinois)
-* USA (Washington, D.C.)
-* Europe (London, United Kingdom)
-* Europe (Frankfurt, Germany)
-* Europe (Prague, Czech Republic)
-* Asia (Singapore)
-* Asia (Tokyo, Japan)
-* Australia (Melbourne, Australia)
+# USA (San Jose, California)
+# USA (Dallas, Texas)
+# USA (Chicago, Illinois)
+# USA (New York City, New York)
+# Europe (London, United Kingdom)
+# Europe (Frankfurt, Germany)
+# Europe (Prague, Czech Republic)
+# Asia (Singapore)
+# Asia (Hong Kong)
 
 Downloaded content is transferred back to our central location (in Prague)
 where it's processed, saved, and necessary notifications are sent.
