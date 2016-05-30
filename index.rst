@@ -15,21 +15,21 @@ due to unexpected website problems.
    :caption: Getting Started
    :glob:
 
-   getting-started/**
+   /getting-started/**
 
 .. toctree::
    :maxdepth: 1
    :caption: User Accounts
    :glob:
 
-   account/**
+   /account/**
 
 .. toctree::
    :maxdepth: 1
    :caption: Pricing & Billing
    :glob:
 
-   pricing/**
+   /pricing/**
 
 .. toctree::
    :maxdepth: 1
@@ -37,20 +37,20 @@ due to unexpected website problems.
    :glob:
 
    /dasahboard/**
-   project/project
-   project/dashboard/**
-   project/add/**
-   project/delete/**
-   project/share/**
-   project/settings/**
+   /project/project
+   /project/dashboard/**
+   /project/add/**
+   /project/delete/**
+   /project/share/**
+   /project/settings/**
 
 .. toctree::
    :maxdepth: 1
    :caption: Checks & Pages
    :glob:
 
-   checks/**
-   pages/**
+   /checks/**
+   /pages/**
 
 .. toctree::
    :maxdepth: 1
@@ -64,40 +64,29 @@ due to unexpected website problems.
    :caption: Uptime monitoring
    :glob:
 
-   uptime/**
+   /uptime/**
 
 .. toctree::
    :maxdepth: 1
    :caption: Notifications
    :glob:
 
-   notifications/**
+   /notifications/**
 
 .. toctree::
    :maxdepth: 1
    :caption: Reports
    :glob:
 
-   reports/**
+   /reports/**
 
 .. toctree::
    :maxdepth: 1
    :caption: Testomato API
    :glob:
 
-   api/**/index
-   api/common
+   /api/**/index
+   /api/common
 
 
-Support
--------
-
-If you would like to participate in the future development of our roadmap,
-please don’t be shy!
-
-* `Contact Form <https://www.testomato.com/contact>`_
-* `Twitter <https://twitter.com/testomatocom>`_
-* `Facebook <https://www.facebook.com/testomato>`_
-* `YouTube <https://www.youtube.com/user/testomatocom>`_
-
-We'd love to hear your suggestions: support@testomato.com You can email us anytime!
+.. include:: /getting-started/support.rst

@@ -5,7 +5,7 @@ The following settings are available for projects:
 
 * Name your project
 * Select intervals for your checks to **Run automatically**.
-* Set :doc:`Uptime monitoring </uptime/what-is-uptime-monitoring>` intervals or turn it off
+* Set :doc:`Uptime monitoring </uptime/uptime-monitoring>` intervals or turn it off
 * Select a **testing location**.
 * Set whether or not you'd like to receive **Notifications** and severity of alerts.
 * Set a **Timeout** speed for your tests.
