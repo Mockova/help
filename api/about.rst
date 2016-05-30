@@ -26,5 +26,5 @@ project dashboard:
    :caption: Testomato API
    :glob:
 
-   api/**/index
-   api/common
+   /api/**/index
+   /api/common
