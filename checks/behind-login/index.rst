@@ -6,8 +6,6 @@ website). If you entrust us with your credentials (password + login) we will a
 utomatically login before each check is performed. Checks are run in a separate
 session that logs you in using credentials you configure in a login form.
 
-Follow these security tips:
-
 .. warning:: We have to store your credential (password + login) unencrypted. While we will do everything to ensure your safety, please be extra careful.
 
 Follow these security tips:
