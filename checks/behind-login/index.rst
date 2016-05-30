@@ -12,7 +12,7 @@ Follow these security tips:
 
 * Use a testing account just for Testomato.
 * Don’t use the same password you are using for your admin account
-* Use a restricted user account, not an amin account.
+* Use a restricted user account, not an admin account.
 * Use a strong, long password and change password once in a while.
 * Use HTTPS certificates (they are `available free of charge <https://letsencrypt.org/>`_)
 * Do not hesitate to contact us (support@testomato.com) if you notice any suspicious behavior.
