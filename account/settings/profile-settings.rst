@@ -4,7 +4,7 @@ Profile Settings
 First, you'll need to go to the account menu (located in the top right corner)
 and select `Profile Settings <https://www.testomato.com/user/profile>`_:
 
-.. image:: /account/settings/profile-settings.png
+.. image:: profile-settings.png
    :alt: Profile Settings
    :align: center
 
@@ -18,6 +18,6 @@ From your profile Settings page, you can:
 * Export all your data.
 * Delete your account permanently.
 
-.. image:: /account/settings/profile-settings-page.png
+.. image:: profile-settings-page.png
    :alt: Profile Settings Page
    :align: center

@@ -7,7 +7,7 @@ Sign Up for Testomato
 2. Fill in your email, password and your name
 3. Click on *Sign Up*
 
-.. image:: /account/sign-up/sign-up.png
+.. image:: sign-up.png
    :alt: Sign Up to Testomato
    :align: center
 
@@ -17,7 +17,7 @@ Sign Up for Testomato
  2. Chose your favorit provider - Github, Facebook or Google
  3. Confirm access to your credentials
 
- .. image:: /account/sign-up/sign-up-social.png
+ .. image:: sign-up-social.png
     :alt: Sign Up to Testomato
     :align: center
 

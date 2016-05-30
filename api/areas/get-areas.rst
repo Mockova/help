@@ -23,5 +23,5 @@ apikey         An API key unique to each project (*required*)
 Response
 --------
 
-.. literalinclude:: /api/areas/get-areas.json
+.. literalinclude:: get-areas.json
    :language: json
