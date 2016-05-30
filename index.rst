@@ -45,6 +45,7 @@ due to unexpected website problems.
    :glob:
 
    checks/**
+   pages/**
 
 .. toctree::
    :maxdepth: 1
