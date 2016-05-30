@@ -15,7 +15,7 @@ due to unexpected website problems.
    :caption: Getting Started
    :glob:
 
-   /getting-started/**
+   /getting-started/**!(index.rst)
 
 .. toctree::
    :maxdepth: 1
