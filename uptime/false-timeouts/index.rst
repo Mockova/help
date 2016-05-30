@@ -1,8 +1,9 @@
-Why Does Testomato Say My Site Is Down When It's Not?
-=====================================================
+Getting false timeouts
+======================
 
-Testomato may occasionally report your site is down or unavailable, but
-everything looks fine when you go and investigate the problem for yourself.
+Why Does Testomato Say My Site Is Down When It's Not? Testomato may occasionally
+report your site is down or unavailable, but everything looks fine when you go
+and investigate the problem for yourself.
 
 This article will help you better understand what might cause this type of issue
 to occur.
@@ -40,7 +41,7 @@ To view recent results:
 
 1. Click the *gear icon* of the timed out test.
 
-.. image:: /uptime/page-settings.png
+.. image:: page-settings.png
    :alt: Page settings
    :align: center
 

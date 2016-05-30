@@ -1,5 +1,5 @@
-What Is Uptime Monitoring?
-==========================
+Uptime Monitoring
+=================
 
 Site downtime can mean losing user trust and revenue, so it's important to make
 sure you know when your website is up or down. Uptime Monitoring is a quick and
@@ -23,7 +23,7 @@ How Uptime Monitoring Works
 * Individual project dashboards will display the same circle icon along with
   more detailed information, including your website status and HTTP codes.
 
-.. image:: /uptime/uptime-status.png
+.. image:: uptime-status.png
    :alt: Website uptime status
    :align: center
 
@@ -33,7 +33,7 @@ How Uptime Monitoring Works
 * Your Reports includes a new chart for uptime percentage and a
   history of all project response time checks.
 
-.. image:: /uptime/reports.png
+.. image:: reports.png
    :alt: Reports
    :align: center
 

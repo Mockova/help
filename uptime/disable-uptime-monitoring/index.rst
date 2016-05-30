@@ -19,7 +19,7 @@ How to Disable Uptime Monitoring & Response Time
 
 3. Scroll down to *Uptime monitoring* and select an uptime interval or **OFF**.
 
-.. image:: /uptime/disable-uptime-monitoring.png
+.. image:: disable-uptime-monitoring.png
    :align: center
    :alt: Disable uptime monitoring
 

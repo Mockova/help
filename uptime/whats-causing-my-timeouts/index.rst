@@ -57,7 +57,7 @@ To adjust these periods, open your project and then click to
 
 and scroll down to **Advanced options**:
 
-.. image:: /uptime/advanced-options.png
+.. image:: advanced-options.png
    :alt: Advanced options
    :align: center
 
@@ -69,7 +69,7 @@ You can delay your notifications from your account `Instant Notifications
 Settings <https://www.testomato.com/user/notifications-settings>`_ and change
  *Sent email notifications* settings:
 
-.. image:: /uptime/sent-email-notifications.png
+.. image:: sent-email-notifications.png
    :alt: Sent Email Notifications
    :align: center
 
