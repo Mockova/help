@@ -13,7 +13,7 @@ From your profile Settings page, you can:
 
 * Enter your name, email, and timezone.
 * Change your password.
-* Choose how often you would like to receive :doc:`Reports </reports/reports>`_ from Testomato.
+* Choose how often you would like to receive :doc:`Reports </reports/reports>` from Testomato.
 * View or regenerate users API Key.
 * Export all your data.
 * Delete your account permanently.
