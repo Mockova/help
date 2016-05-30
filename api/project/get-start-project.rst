@@ -23,7 +23,7 @@ apikey         An API key unique to each project (*required*)
 Response
 --------
 
-.. literalinclude:: /api/project/get-start-project.json
+.. literalinclude:: get-start-project.json
    :language: json
 
 Response Parameters

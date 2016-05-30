@@ -1,5 +1,5 @@
-How We Create Pre-configured Checks
-===================================
+Pre-configured Pages Check
+==========================
 
 1. The first check we add to the suite is your homepage (this is taken from the
    URL you add as your project).

@@ -9,7 +9,7 @@ This article explains what a **project dashboard** is and how to read it.
 
 Here is a project dashboard:
 
-.. image:: /project/dashboard/project-dashboard.png
+.. image:: project-dashboard.png
    :alt: Project Dashboard
    :align: center
 
@@ -24,13 +24,13 @@ According to your `Payment Plan <https://www.testomato.com/pricing>`_ your **Pro
 also displays a green, red, or orange circle icon, which indicates whether your
 homepage is up, down, or timing out.
 
-.. image:: /project/dashboard/uptime.png
+.. image:: uptime.png
    :alt: Uptime indicator
    :align: center
 
 Most important controls on **Project dashboard** are in top-right corner:
 
-.. image:: /project/dashboard/project-controls.png
+.. image:: project-controls.png
    :alt: Project Controls
    :align: center
 

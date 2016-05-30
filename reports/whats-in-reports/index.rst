@@ -10,38 +10,38 @@ Reports are split into 6 sections:
 
 * **Number of Issues** - The number of problems found on your website.
 
-.. image:: /reports/number-of-issues.png
+.. image:: number-of-issues.png
    :alt: Number of Issues
    :align: center
 
 * **Issue Type Frequency** - The frequency of different errors found.
 
-.. image:: /reports/issue-type-frequency.png
+.. image:: issue-type-frequency.png
    :alt: Reports tab
    :align: center
 
 * **Issue Duration** - The time it took for an issue to be resolved.
 
-.. image:: /reports/reports.png
+.. image:: reports.png
    :alt: Reports tab
    :align: center
 
 * **Uptime Percentage** - The uptime percentage of your website for the following: OK, TIMEOUT, or ERROR.
 
-.. image:: /reports/uptime-percentage.png
+.. image:: uptime-percentage.png
    :alt: Uptime Percentage
    :align: center
 
 * **Response Timing** - The amount of time it took for each phase of a page to load.
 
-.. image:: /reports/response-timing.png
+.. image:: response-timing.png
    :alt: Response Timing
    :align: center
 
 * **Issues Timeline** - A timeline showing when and where issues occurred.
 You can select a predefined date range or set your own custom range to see data for different time periods in your reports.
 
-.. image:: /reports/issues-timeline.png
+.. image:: issues-timeline.png
    :alt: Issues Timeline
    :align: center
 

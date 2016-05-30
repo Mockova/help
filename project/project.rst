@@ -13,6 +13,6 @@ Projects will also be displayed on your main dashboard
 To view a :doc:`project dashboard </project/project-dashboard>`, simply click
 on the project's name:
 
-.. image:: /project/project.png
+.. image:: project.png
    :alt: Single Project
    :align: center

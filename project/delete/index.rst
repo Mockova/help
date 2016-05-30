@@ -5,7 +5,7 @@ Delete Project
 
 2. Scroll down and click **Delete Project**.
 
-.. image:: /project/delete/delete-project.png
+.. image:: delete-project.png
    :alt: Delete project
    :align: center
 

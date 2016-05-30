@@ -4,7 +4,7 @@ All Projects
 **All Projects** are meant to help you get a basic overview of what's going
 on in your projects in a quick way.
 
-.. image:: /dashboard/all-projects.png
+.. image:: all-projects.png
    :alt: All Projects
    :align: center
 

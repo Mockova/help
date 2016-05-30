@@ -4,13 +4,13 @@ Add Project
 You can visit `Add Project <https://www.testomato.com/project/create>`_ page or
 Click **+Add project** in the top left corner.
 
-.. image:: /project/add/add-project-button.png
+.. image:: add-project-button.png
    :alt: Add project
    :align: center
 
 1. Enter homepage URL
 
-.. image:: /project/add/add-project.png
+.. image:: add-project.png
    :alt: Create projects
    :align: center
 

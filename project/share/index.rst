@@ -4,7 +4,7 @@ Share Project
 You can easily share your projects with other users, just open chosen project and
 click to **Share Project** button:
 
-.. image:: /project/share/share-project.png
+.. image:: share-project.png
    :alt: Share Project
    :align: center
 
@@ -14,13 +14,13 @@ Testomato have follow default roles, which means they have permissions that cann
 * Project Developer
 * Project Guest
 
-.. image:: /project/share/share-project-settings.png
+.. image:: share-project-settings.png
    :alt: Share Project Settings
    :align: center
 
 You can also add new role:
 
-.. image:: /project/share/add-role.png
+.. image:: add-role.png
    :alt: Add Role
    :align: center
 
@@ -33,6 +33,6 @@ Here is a short list of the permissions for:
 * Manage users - User can add new users to projects.
 * API key - User has full access to the project’s API key.
 
-.. image:: /project/share/edit-role.png
+.. image:: edit-role.png
    :alt: Edit role permission
    :align: center

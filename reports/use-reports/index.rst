@@ -19,7 +19,7 @@ Here's how to navigate your Issues Timeline:
 * Drag from left or right to select the date range you'd like to view.
 * Click on individual issues in your timeline to view Issue Details, which show you a detailed log of the problem and its current status.
 
-.. image:: /reports/issues-timeline.png
+.. image:: issues-timeline.png
    :alt: Issues Timeline
    :align: center
 
@@ -29,6 +29,6 @@ Select a date Range
 You can also choose to select a predefined date range or set your own custom
 range to see data for different time periods in Reports.
 
-.. image:: /reports/data-range.png
+.. image:: data-range.png
    :alt: Chose a data range
    :align: center

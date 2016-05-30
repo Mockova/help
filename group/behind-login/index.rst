@@ -32,25 +32,25 @@ Create password-protected group
 2. Scroll down and click on the **Start monitoring behind login** button.
 
 
-.. image:: /checks/behind-login/start-monitoring-behind-login.png
+.. image:: start-monitoring-behind-login.png
    :alt: Start monitoring begind login
    :align: center
 
 3. Enter the URL of the page that contains the **login form** and click **Submit**.
 
-.. image:: /checks/behind-login/login-page.png
+.. image:: login-page.png
    :alt: Enter login page
    :align: center
 
 4. Find the login form and click **Select**.
 
-.. image:: /checks/behind-login/chose-login-form.png
+.. image:: chose-login-form.png
    :alt: Chose login form
    :align: center
 
 5. Name your group and enter the login credentials. You can verify your credentials using the *Verify credentials* button at the bottom of the page.
 
-.. image:: /checks/behind-login/enter-credentials.png
+.. image:: enter-credentials.png
    :alt: Enter credentials
    :align: center
 
@@ -65,13 +65,13 @@ Edit credentials
 
 3. Click the **lock** icon next to your password-protected area's name.
 
-.. image:: /checks/behind-login/edit-credentials.png
+.. image:: edit-credentials.png
    :alt: Edit credentials
    :align: center
 
 4. Fill in the new credentials you'd like to have sent to your form.
 
-.. image:: /checks/behind-login/new-credentials.png
+.. image:: new-credentials.png
    :alt: Enter new credentials
    :align: center
 
@@ -82,7 +82,7 @@ Delete password-protected group
 2. Scroll down to the password-protected group you'd like to delete.
 3. Click the trash icon next to the right of your password protected area's name.
 
-.. image:: /checks/behind-login/delete-group.png
+.. image:: delete-group.png
    :alt: Delete group
    :align: center
 

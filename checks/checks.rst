@@ -53,7 +53,7 @@ HTTP Status Codes
 
 Get more information about `HTTPS Status Codes <https://en.wikipedia.org/wiki/List_of_HTTP_status_codes>`_.
 
-.. image:: /checks/http-status-codes.png
+.. image:: http-status-codes.png
    :alt: HTTP Status Codes
    :align: center
 
@@ -64,7 +64,7 @@ Other Ways to Use checks
 * HTML on page
 * HTTP header content
 
-.. image:: /checks/text-on-page.png
+.. image:: text-on-page.png
    :alt: Check for text on Page
    :align: center
 

@@ -12,6 +12,6 @@ Reports in Testomato.
 1. Click on the project you’d like to view.
 2. Click on the  Reports button.
 
-.. image:: /reports/reports.png
+.. image:: reports.png
    :alt: Reports tab
    :align: center

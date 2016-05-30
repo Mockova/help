@@ -41,6 +41,6 @@ How to change Testing Location:
 2. Click to **Project Settings** button.
 3. Scroll down to **Testing location** and select the location you would like to monitor from.
 
-.. image:: /monitoring/testing-locations.png
+.. image:: testing-locations.png
    :alt: Testing Locations
    :align: center
