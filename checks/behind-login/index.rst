@@ -27,27 +27,27 @@ Monitoring behinf login allows you to check:
 Create password-protected group
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-#. Click on the project you'd like to view.
+1. Click on the project you'd like to view.
 
-#. Scroll down and click to *Start monitoring behind login* button.
+2. Scroll down and click to *Start monitoring behind login* button.
 
 .. image:: /checks/behind-login/start-monitoring-behind-login.png
    :alt: Start monitoring begind login
    :align: center
 
-#. Enter the URL of the page that contains the **login form** and click **Submit**.
+3. Enter the URL of the page that contains the **login form** and click **Submit**.
 
 .. image:: /checks/behind-login/login-page.png
    :alt: Enter login page
    :align: center
 
-#. Find the login form and click **Select**.
+4. Find the login form and click **Select**.
 
 .. image:: /checks/behind-login/chose-login-form.png
    :alt: Chose login form
    :align: center
 
-#. Name your group and enter the login credentials. You can verify your credentials using the *Verify credentials* button at the bottom of the page.
+5. Name your group and enter the login credentials. You can verify your credentials using the *Verify credentials* button at the bottom of the page.
 
 .. image:: /checks/behind-login/enter-credentials.png
    :alt: Enter credentials
@@ -58,17 +58,17 @@ All done! Your password-protected group is ready for you to add some new checks.
 Edit credentials
 ~~~~~~~~~~~~~~~~
 
-#. Click on the project you'd like to view.
+1. Click on the project you'd like to view.
 
-#. Scroll down to the password-protected group you'd like to manage.
+2. Scroll down to the password-protected group you'd like to manage.
 
-#. Click the **lock** icon next to your password-protected area's name.
+3. Click the **lock** icon next to your password-protected area's name.
 
 .. image:: /checks/behind-login/edit-credentials.png
    :alt: Edit credentials
    :align: center
 
-#. Fill in the new credentials you'd like to have sent to your form.
+4. Fill in the new credentials you'd like to have sent to your form.
 
 .. image:: /checks/behind-login/new-credentials.png
    :alt: Enter new credentials
@@ -77,12 +77,12 @@ Edit credentials
 Delete password protected group
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-#. Click on the project you'd like to view.
-#. Scroll down to the password-protected group you'd like to delete.
-#. Click the trash icon next to the right of your password protected area's name.
+1. Click on the project you'd like to view.
+2. Scroll down to the password-protected group you'd like to delete.
+3. Click the trash icon next to the right of your password protected area's name.
 
 .. image:: /checks/behind-login/delete-group.png
    :alt: Delete group
    :align: center
 
-#. Click **OK** to confirm.
+4. Click **OK** to confirm.
