@@ -28,4 +28,4 @@ Read more information about **Checks & Results**:
    :maxdepth: 1
    :glob:
 
-   checks/**
+   /checks/**
