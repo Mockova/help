@@ -36,7 +36,7 @@ due to unexpected website problems.
    :caption: Project & Dashboard
    :glob:
 
-   dasahboard/**
+   /dasahboard/**
    project/project
    project/dashboard/**
    project/add/**
