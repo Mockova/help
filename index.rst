@@ -78,8 +78,7 @@ due to unexpected website problems.
    :maxdepth: 1
    :caption: Testomato API
    :glob:
-
-   api/about
+   
    api/**/index
    api/common
 
