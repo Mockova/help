@@ -36,8 +36,13 @@ due to unexpected website problems.
    :caption: Project & Dashboard
    :glob:
 
-   dsahboard/**
-   project/**
+   dasahboard/**
+   project/project
+   project/dashboard/**
+   project/add/**
+   project/delete/**
+   project/share/**
+   project/settings/**
 
 .. toctree::
    :maxdepth: 1
