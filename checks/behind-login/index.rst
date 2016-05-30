@@ -74,7 +74,7 @@ Edit credentials
    :alt: Enter new credentials
    :align: center
 
-Delete password protected group
+Delete password-protected group
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. Click on the project you'd like to view.
