@@ -15,72 +15,72 @@ due to unexpected website problems.
    :caption: Getting Started
    :glob:
 
-   /getting-started/**!(index.rst)
+   getting-started/**
 
 .. toctree::
    :maxdepth: 1
    :caption: User Accounts
    :glob:
 
-   /account/**
+   account/**
 
 .. toctree::
    :maxdepth: 1
    :caption: Pricing & Billing
    :glob:
 
-   /pricing/**
+   pricing/**
 
 .. toctree::
    :maxdepth: 1
    :caption: Project & Dashboard
    :glob:
 
-   /dsahboard/**
-   /project/**
+   dsahboard/**
+   project/**
 
 .. toctree::
    :maxdepth: 1
    :caption: Checks & Pages
    :glob:
 
-   /checks/**
+   checks/**
 
 .. toctree::
    :maxdepth: 1
    :caption: Monitoring
    :glob:
 
-   /monitoring/**
+   monitoring/**
 
 .. toctree::
    :maxdepth: 1
    :caption: Uptime monitoring
    :glob:
 
-   /uptime/**
+   uptime/**
 
 .. toctree::
    :maxdepth: 1
    :caption: Notifications
    :glob:
 
-   /notifications/**
+   notifications/**
 
 .. toctree::
    :maxdepth: 1
    :caption: Reports
    :glob:
 
-   /reports/**
+   reports/**
 
 .. toctree::
    :maxdepth: 1
    :caption: Testomato API
    :glob:
 
-   /api/**/index
-   /api/common
+   api/**/index
+   api/common
 
 
 Support

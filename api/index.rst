@@ -22,7 +22,7 @@ You can find your API Key at the bottom of the Settings tab in your
 project dashboard:
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 1
    :caption: Testomato API
    :glob:
 
