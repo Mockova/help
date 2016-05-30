@@ -11,10 +11,6 @@ The API can be used to do the following with continuous integration:
 * Getting project information
 * Reading project results
 
-.. contents:: In this article
-   :local:
-   :depth: 1
-
 How to Access the Testomato API
 -------------------------------
 
@@ -24,3 +20,11 @@ parameter is mandatory in all requests.
 
 You can find your API Key at the bottom of the Settings tab in your
 project dashboard:
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Testomato API
+   :glob:
+
+   api/**/index
+   api/common
