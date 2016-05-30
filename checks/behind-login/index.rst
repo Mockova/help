@@ -1,21 +1,23 @@
 Monitoring behind login
 =======================
 
-Testomato can monitoring pages *behind login* (password protected areas of your web).
-If you entrust us your credentials (password + login) we will automatically login
-before each check will be performed. Checks are run in a separate session
-that logs you in using credentials you configure in a login form.
+Testomato can monitor pages behind login (password protected areas of your
+website). If you entrust us with your credentials (password + login) we will a
+utomatically login before each check is performed. Checks are run in a separate
+session that logs you in using credentials you configure in a login form.
 
-.. warning:: We have to store your credential (password + login) unencrypted. While we will do everything for your safety, but be extra carefull.
+Follow these security tips:
 
-Follow few security tips:
+.. warning:: We have to store your credential (password + login) unencrypted. While we will do everything to ensure your safety, please be extra careful.
 
-* Use a testing account just for Testomato purpose.
-* Don't use same password as have your admin account have.
-* Use restricted user, not an amin account.
-* Use strong generated long password and change password sometimes.
-* Use HTTPS `certificates are for free now <https://letsencrypt.org/>`_
-* Do not hesitate to contact us (support@testomato.com) when you notice any suspicious behavior.
+Follow these security tips:
+
+* Use a testing account just for Testomato.
+* Don’t use the same password you are using for your admin account
+* Use a restricted user account, not an amin account.
+* Use a strong, long password and change password once in a while.
+* Use HTTPS certificates (they are `available free of charge <https://letsencrypt.org/>`_)
+* Do not hesitate to contact us (support@testomato.com) if you notice any suspicious behavior.
 
 Monitoring behinf login allows you to check:
 
@@ -29,7 +31,8 @@ Create password-protected group
 
 1. Click on the project you'd like to view.
 
-2. Scroll down and click to *Start monitoring behind login* button.
+2. Scroll down and click on the **Start monitoring behind login** button.
+
 
 .. image:: /checks/behind-login/start-monitoring-behind-login.png
    :alt: Start monitoring begind login
