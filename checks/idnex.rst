@@ -9,5 +9,6 @@ With Testomato, you can check your page content for the following:
 .. toctree::
    :maxdepth: 1
    :glob:
+   :hidden:
 
    /checks/**/index
