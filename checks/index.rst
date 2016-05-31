@@ -1,5 +1,5 @@
 .. title:: Checks
-.. rubic:: Checks
+.. rubric:: Checks
 =================
 
 .. toctree::
