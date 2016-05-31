@@ -22,10 +22,4 @@ Here's how to edit a check:
 4. Click **Save**.
 
 
-Read more information about **Checks & Results**:
-
-.. toctree::
-   :maxdepth: 1
-   :glob:
-
-   /checks/**/index
+Read more information about :doc:`Checks & Results </checks>`.
