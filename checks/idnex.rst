@@ -1,14 +1,10 @@
 Checks
 ======
 
-What Are Checks?
-----------------
-
 With Testomato, you can check your page content for the following:
 
 .. toctree::
    :maxdepth: 1
    :glob:
-   :includehidden:
 
    /checks/**/index

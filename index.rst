@@ -47,10 +47,8 @@ due to unexpected website problems.
 .. toctree::
    :maxdepth: 1
    :caption: Checks & Pages
-   :glob:
 
-   /checks/**
-   /pages/**/index
+   checks   
 
 .. toctree::
    :maxdepth: 1
