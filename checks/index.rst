@@ -1,5 +1,6 @@
-Checks
-======
+.. title:: Checks
+.. rubic:: Checks
+=================
 
 .. toctree::
    :maxdepth: 1
