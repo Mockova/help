@@ -20,7 +20,7 @@ that something is broken on website.
 
 
 .. figure:: tracy.png
-   :scale: 50 %
+   :align: center
    :alt: Tracy Error Message
 
    Testomato is sensitive to debug output of Nette debug framework called
