@@ -50,7 +50,7 @@ due to unexpected website problems.
    :glob:
 
    /checks/**/index
-   /pages/**
+   /pages/**/index
 
 .. toctree::
    :maxdepth: 1
