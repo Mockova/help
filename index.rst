@@ -55,7 +55,7 @@ due to unexpected website problems.
    :caption: Monitoring
    :glob:
 
-   monitoring/**
+   /monitoring/**
 
 .. toctree::
    :maxdepth: 1
