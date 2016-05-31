@@ -1,3 +1,5 @@
+.. rubric:: Checks 
+
 .. title:: Checks
 
 .. toctree::
