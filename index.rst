@@ -19,20 +19,6 @@ due to unexpected website problems.
 
 .. toctree::
    :maxdepth: 1
-   :caption: User Accounts
-   :glob:
-
-   /account/**
-
-.. toctree::
-   :maxdepth: 1
-   :caption: Pricing & Billing
-   :glob:
-
-   /pricing/**
-
-.. toctree::
-   :maxdepth: 1
    :caption: Project & Dashboard
    :glob:
 
@@ -46,13 +32,13 @@ due to unexpected website problems.
 
 .. toctree::
    :maxdepth: 1
-   :caption: Checks & Pages
+   :caption: Pages
 
-   /checks/index
+   /pages/index
 
 .. toctree::
    :maxdepth: 1
-   :caption: Checks & Pages
+   :caption: Checks
 
    /checks/index
 
@@ -83,6 +69,20 @@ due to unexpected website problems.
    :glob:
 
    /reports/**
+
+.. toctree::
+   :maxdepth: 1
+   :caption: User Accounts
+   :glob:
+
+   /account/**
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Pricing & Billing
+   :glob:
+
+   /pricing/**
 
 .. toctree::
    :maxdepth: 1
