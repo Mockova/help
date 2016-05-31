@@ -1,7 +1,7 @@
-With Testomato, you can check your page content for the following:
+.. title:: Checks
 
 .. toctree::
    :maxdepth: 1
    :glob:
 
-   /checks/**/index
+   **/index
