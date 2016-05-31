@@ -49,7 +49,12 @@ due to unexpected website problems.
    :caption: Checks & Pages
 
    /checks/index
-   /pages/index
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Checks & Pages
+
+   /checks/index
 
 .. toctree::
    :maxdepth: 1
