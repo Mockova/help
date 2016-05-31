@@ -1,6 +1,5 @@
-
 HTTP Status Codes Checks
-=======================
+========================
 
 * 200 OK
 * 301 Moved Permanently
@@ -14,8 +13,8 @@ HTTP Status Codes Checks
 * 501 Implemented
 * custom status code
 
-Get more information about `HTTPS Status Codes <https://en.wikipedia.org/wiki/List_of_HTTP_status_codes>`_.
-
 .. image:: http-status-codes.png
    :alt: HTTP Status Codes
    :align: center
+
+Get more information about `HTTPS Status Codes <https://en.wikipedia.org/wiki/List_of_HTTP_status_codes>`_.
