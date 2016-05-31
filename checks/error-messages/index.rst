@@ -36,19 +36,19 @@ PHP Debuggers
    :align: center
    :alt: Tracy Error Message
 
-   `Nette/Tracy <https://github.com/nette/tracy>`_ error bluescreen
+   `Nette/Tracy <https://github.com/nette/tracy>`_ bluescreen example
 
 .. figure:: symfony.png
    :align: center
    :alt: Symfony error
 
-  `Symfony <https://symfony.com/>`_ error pages
+   `Symfony <https://symfony.com/>`_ error pages example
 
 .. figure:: xdebug.png
    :align: center
    :alt: Xdebug error
 
-  `XDebug output <https://xdebug.org/>`_
+   `XDebug output <https://xdebug.org/>`_ example.
 
 Others
 ~~~~~~
