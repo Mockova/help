@@ -8,15 +8,9 @@ that something is broken on website.
 All PHP Errors
 ~~~~~~~~~~~~~~
 
-* All types of PHP error messages
-   * :code:`Fatal error`
-   * :code:`Catchable fatal error`
-   * :code:`Warning`
-   * :code:`Parse error`
-   * :code:`Notice`
-   * :code:`Strict Standards`
-   * :code:`Deprecated`
-   * :code:`Unknown error`
+* All types of PHP error messages (:code:`Fatal error`, :code:`Catchable fatal error`
+:code:`Warning`, :code:`Parse error`, :code:`Notice`, :code:`Strict Standards`
+:code:`Deprecated`, :code:`Unknown error`)
 
 Database Errors
 ~~~~~~~~~~~~~~~
@@ -53,7 +47,7 @@ PHP Debuggers
 Others
 ~~~~~~
 
-* `Phusion Passenger <https://www.phusionpassenger.com/>`_ errors.
+* `Phusion Passenger <https://www.phusionpassenger.com/>`_ errors
 * Blank page (page without content)
 
 We have an example page generate randomly some of common error messages: https://www.testomato.com/example/error.php
