@@ -1,7 +1,5 @@
-.. rubric::
-
-Checks
-======
+.. rubric:: Checks
+==================
 
 .. title:: Checks
 
