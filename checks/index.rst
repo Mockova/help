@@ -1,4 +1,5 @@
-.. title:: Checks
+Checks
+======
 
 .. toctree::
    :maxdepth: 1
