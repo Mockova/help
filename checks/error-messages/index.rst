@@ -6,14 +6,14 @@ Testomato is sensitive to follow **Common Error Messages**, they are marker for 
 that something is broken on website.
 
 All PHP Errors
-~~~~~~~~~~~~~~
+--------------
 
 * All types of PHP error messages (:code:`Fatal error`, :code:`Catchable fatal error`
 :code:`Warning`, :code:`Parse error`, :code:`Notice`, :code:`Strict Standards`
 :code:`Deprecated`, :code:`Unknown error`)
 
 Database Errors
-~~~~~~~~~~~~~~~
+---------------
 
 * `All MySQL error messages <https://dev.mysql.com/doc/refman/5.5/en/error-messages-server.html>`_
 * Database connection errors:
@@ -24,7 +24,10 @@ Database Errors
    * Wordpress :code:`Error establishing a database connection`
 
 PHP Debuggers outputs
-~~~~~~~~~~~~~~~~~~~~~
+---------------------
+
+XDebug
+~~~~~~
 
 .. figure:: xdebug.png
    :align: center
@@ -32,11 +35,17 @@ PHP Debuggers outputs
 
    `XDebug output <https://xdebug.org/>`_ example.
 
+Tracy
+~~~~~
+
 .. figure:: tracy.png
    :align: center
    :alt: Tracy Error Message
 
    `Nette/Tracy <https://github.com/nette/tracy>`_ bluescreen example
+
+Symfony
+~~~~~~~
 
 .. figure:: symfony.png
    :align: center
@@ -45,7 +54,7 @@ PHP Debuggers outputs
    `Symfony <https://symfony.com/>`_ error pages example
 
 Others
-~~~~~~
+------
 
 * `Phusion Passenger <https://www.phusionpassenger.com/>`_ errors
 * Blank page (page without content)
