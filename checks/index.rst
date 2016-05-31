@@ -1,5 +1,6 @@
-.. rubric:: Checks
 .. title:: Checks
+
+.. rubric:: Checks
 
 .. toctree::
    :maxdepth: 1
