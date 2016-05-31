@@ -49,7 +49,7 @@ due to unexpected website problems.
    :caption: Checks & Pages
    :glob:
 
-   /checks/**
+   /checks/**/index
    /pages/**
 
 .. toctree::
