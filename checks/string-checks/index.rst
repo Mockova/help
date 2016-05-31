@@ -9,4 +9,4 @@ Text/HTML checks
    :alt: Check for text on Page
    :align: center
 
-.. note:: These checks are case sensitive, so make sure you PaY ClosE AtTentioN to the text you enter.
+.. note:: These checks **are case sensitive**, so make sure you PaY ClosE AtTentioN to the text you enter.
