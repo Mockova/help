@@ -13,7 +13,7 @@ We welcome questions, and our team is committed to solving any issue!
 
 1. Open `Profile settings <https://www.testomato.com/user/profile>`_.
 
-.. image:: /account/settings/profile-settings.png
+.. image:: profile-settings.png
    :alt: Profile Settings
    :align: center
 
@@ -21,20 +21,20 @@ We welcome questions, and our team is committed to solving any issue!
 
 3. Click **Delete my account**.
 
-.. image:: /account/delete/delete-account.png
+.. image:: delete-account.png
    :alt: Delete my account
    :align: center
 
 4. Confirm Account Remove request.
 
-.. image:: /account/delete/delete-account.png
+.. image:: delete-account.png
    :alt: Confirm Account Remove
    :align: center
 
 
 5. Visit your email and click to **Delete Account** button.
 
-.. image:: /account/delete/delete-confirm-email.png
+.. image:: delete-confirm-email.png
    :alt: Delete my account
    :align: center
 
