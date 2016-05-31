@@ -23,8 +23,14 @@ Database Errors
    * Nette :code:`Your browser sent a request that this server could not understand or process`
    * Wordpress :code:`Error establishing a database connection`
 
-PHP Debuggers
-~~~~~~~~~~~~~
+PHP Debuggers outputs
+~~~~~~~~~~~~~~~~~~~~~
+
+.. figure:: xdebug.png
+   :align: center
+   :alt: Xdebug error
+
+   `XDebug output <https://xdebug.org/>`_ example.
 
 .. figure:: tracy.png
    :align: center
@@ -37,12 +43,6 @@ PHP Debuggers
    :alt: Symfony error
 
    `Symfony <https://symfony.com/>`_ error pages example
-
-.. figure:: xdebug.png
-   :align: center
-   :alt: Xdebug error
-
-   `XDebug output <https://xdebug.org/>`_ example.
 
 Others
 ~~~~~~
