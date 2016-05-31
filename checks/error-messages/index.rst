@@ -30,8 +30,8 @@ Database Errors
    * Nette :code:`Your browser sent a request that this server could not understand or process`
    * Wordpress :code:`Error establishing a database connection`
 
-PHP Debuggers outputs
----------------------
+PHP Debuggers
+-------------
 
 XDebug
 ~~~~~~
@@ -64,6 +64,6 @@ Others
 ------
 
 * `Phusion Passenger <https://www.phusionpassenger.com/>`_ errors
-* Blank page (page without content)
+* Blank page (page without any content)
 
 .. note:: We have an example page generate randomly some of common error messages: https://www.testomato.com/example/error.php
