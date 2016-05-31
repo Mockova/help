@@ -45,7 +45,7 @@ due to unexpected website problems.
    /project/settings/**
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: -1
    :caption: Checks & Pages
 
    /checks/index
