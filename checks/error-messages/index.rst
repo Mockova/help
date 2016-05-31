@@ -8,9 +8,10 @@ that something is broken on website.
 All PHP Errors
 --------------
 
-* All types of PHP error messages (:code:`Fatal error`, :code:`Catchable fatal error`
-:code:`Warning`, :code:`Parse error`, :code:`Notice`, :code:`Strict Standards`
-:code:`Deprecated`, :code:`Unknown error`)
+Testomato is sensitive to **all types of PHP error messages** (:code:`Fatal error`,
+:code:`Catchable fatal error`, :code:`Warning`, :code:`Parse error`,
+:code:`Notice`, :code:`Strict Standards`, :code:`Deprecated`,
+:code:`Unknown error`)
 
 Database Errors
 ---------------
