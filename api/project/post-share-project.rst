@@ -5,9 +5,10 @@ Request
 -------
 
 .. code-block:: bash
-    curl -X POST -H 'Content-Type: application/json' \
- 	    -d '{"email":"user@email.cz", "role":6}' \
- 	    'https://www.testomato.com/api/project/{projectId}/users?apikey={apikey}'
+
+   curl -X POST -H 'Content-Type: application/json' \
+ 	 -d '{"email":"user@email.cz", "role":6}' \
+ 	 'https://www.testomato.com/api/project/{projectId}/users?apikey={apikey}'
 
 Request Parameters
 ~~~~~~~~~~~~~~~~~~

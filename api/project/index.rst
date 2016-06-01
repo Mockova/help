@@ -1,5 +1,5 @@
 Project :code:`/api/project/*`
-=============================
+==============================
 
 This API endpoint allow work with project e.g. get projects results,
 run all checks in project, share with users etc.
