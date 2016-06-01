@@ -5,4 +5,4 @@
    :caption: Reports
    :glob:
 
-   /reports/**
+   /reports/**/index

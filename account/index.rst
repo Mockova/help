@@ -5,4 +5,4 @@
    :caption: User Accounts
    :glob:
 
-   /account/**
+   /account/**/index

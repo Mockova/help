@@ -3,6 +3,7 @@
 .. toctree::
    :maxdepth: 1
    :caption: Pricing & Billing
-   :glob:
 
-   /pricing/**
+   /pricing/free-trial
+   /pricing/billing-information
+   /pricing/subscription-plans
