@@ -29,6 +29,6 @@ checks for forms on your webpage.
    :alt: Add checks
    :align: center
 
-Get more information :doc:`about checks </checks>`
+Get more information :doc:`about checks </checks/index>`
 
 6. Click **Save**
