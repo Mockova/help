@@ -1,6 +1,4 @@
-Pages
-=====
-
+.. rubric:: Pages
 .. title:: Pages
 
 .. toctree::

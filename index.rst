@@ -20,10 +20,3 @@ due to unexpected website problems.
 .. include:: /getting-started/support/index.rst
 
 .. title:: Testomato HELP
-
-
-.. epigraph::
-
-   Testing don’t break software, software is already broken
-
-   -- Amir Ghahrai
