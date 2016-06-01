@@ -5,4 +5,4 @@
    :caption: Uptime monitoring
    :glob:
 
-   /uptime/**
+   /uptime/**/index
