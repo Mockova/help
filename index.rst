@@ -11,12 +11,12 @@ due to unexpected website problems.
 .. include:: /getting-started/index.rst
 .. include:: /project/index.rst
 .. include:: /pages/index.rst
-.. .. include:: /checks/index.rst
-.. .. include:: /uptime/index.rst
-.. .. include:: /reports/index.rst
-.. .. include:: /account/index.rst
-.. .. include:: /pricing/index.rst
-.. .. include:: /api/index.rst
-.. .. include:: /getting-started/support/index.rst
+.. include:: /checks/index.rst
+.. include:: /uptime/index.rst
+.. include:: /reports/index.rst
+.. include:: /account/index.rst
+.. include:: /pricing/index.rst
+.. include:: /api/index.rst
+.. include:: /getting-started/support/index.rst
 
 .. title:: Testomato HELP
