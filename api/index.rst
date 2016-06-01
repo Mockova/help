@@ -6,4 +6,5 @@
    :glob:
 
    /api/**/index
+   /api/apimato
    /api/common

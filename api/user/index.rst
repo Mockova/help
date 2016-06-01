@@ -8,7 +8,7 @@ This API endpoint allow work with users
    :maxdepth: 1
    :glob:
 
-   get-*
-   post-*
-   delete-*
-   put-*
+   ./get-*
+   ./post-*
+   ./delete-*
+   ./put-*

@@ -9,7 +9,7 @@ run all checks in project, share with users etc.
    :maxdepth: 1
    :glob:
 
-   get-*
-   post-*
-   delete-*
-   put-*
+   ./get-*
+   ./post-*
+   ./delete-*
+   ./put-*
