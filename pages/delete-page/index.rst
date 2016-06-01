@@ -4,7 +4,7 @@ Delete page
 1. Click on the project you'd like to view.
 2. Find the page you would like to remove and click the **trash icon**.
 
-.. image:: /pages/delete/delete.png
+.. image:: delete.png
    :alt: Edit pages
    :align: center
 

@@ -9,17 +9,16 @@ Here's how to edit a check:
 
 2. Find the check box you would like to edit and click the gear icon.
 
-.. image:: /pages/edit/edit.png
+.. image:: edit.png
    :alt: Edit pages
    :align: center
 
 3. Change page settings and hit save
 
-.. image:: /pages/edit/page-settings.png
+.. image:: page-settings.png
    :alt: Edit pages
    :align: center
 
 4. Click **Save**.
-
 
 Read more information about :doc:`Checks & Results </checks>`.
