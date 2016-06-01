@@ -1,4 +1,4 @@
-Duplicate pages
+Duplicate Pages
 ===============
 
 You can duplicate or delete multiple checks at a time from your project dashboard.
