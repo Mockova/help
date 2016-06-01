@@ -15,29 +15,9 @@ due to unexpected website problems.
 .. include:: /uptime/index.rst
 .. include:: /reports/index.rst
 .. include:: /account/index.rst
+.. include:: /pricing/index.rst
+.. include:: /api/index.rst
 
-
-.. sidebar:: Sidebar Title
-   :subtitle: Optional Sidebar Subtitle
-
-   Subsequent indented lines comprise
-   the body of the sidebar, and are
-   interpreted as body elements.
-
-
-.. toctree::
-   :maxdepth: 1
-   :caption: User Accounts
-   :glob:
-
-   /account/**
-
-.. toctree::
-   :maxdepth: 1
-   :caption: Pricing & Billing
-   :glob:
-
-   /pricing/**
 
 .. toctree::
    :maxdepth: 1
@@ -46,8 +26,6 @@ due to unexpected website problems.
 
    /api/**/index
    /api/common
-
-
 
 .. include:: /getting-started/support/index.rst
 .. title:: Testomato HELP
