@@ -8,12 +8,6 @@ alerts you when something goes wrong. With Testomato, it’s easy to set up
 complex tests in seconds and protect your business from losing customers
 due to unexpected website problems.
 
-.. toctree::
-   :maxdepth: 1
-   :glob:
-
-   /*/index
-
 .. include:: /getting-started/index.rst
 .. include:: /project/index.rst
 .. include:: /pages/index.rst
