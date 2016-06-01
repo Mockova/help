@@ -36,12 +36,6 @@ due to unexpected website problems.
 
    /pages/index
 
-.. toctree::
-   :maxdepth: 1
-   :caption: Checks
-
-   /checks/**/index
-
 .. include:: /checks/index.rst
 
 .. toctree::
