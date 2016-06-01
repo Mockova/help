@@ -2,8 +2,7 @@
 
 
 .. toctree::
-   :maxdepth: 1
-   :caption: Project & Dashboard
+   :maxdepth: 2   
    :glob:
 
    *
