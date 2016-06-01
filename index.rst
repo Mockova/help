@@ -1,5 +1,3 @@
-.. title:: Testomato HELP
-
 .. image:: /logo.png
    :alt: Testomato
    :align: center
@@ -91,3 +89,5 @@ due to unexpected website problems.
 
 
 .. include:: /getting-started/support.rst
+
+.. title:: Testomato HELP
