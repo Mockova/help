@@ -5,4 +5,4 @@
    :caption: Checks
    :glob:
 
-   **/index
+   /checks/**/index
