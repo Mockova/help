@@ -1,4 +1,3 @@
-.. rubric:: Pages
 .. title:: Pages
 
 .. toctree::
