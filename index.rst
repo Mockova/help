@@ -17,15 +17,6 @@ due to unexpected website problems.
 .. include:: /account/index.rst
 .. include:: /pricing/index.rst
 .. include:: /api/index.rst
-
-
-.. toctree::
-   :maxdepth: 1
-   :caption: Testomato API
-   :glob:
-
-   /api/**/index
-   /api/common
-
 .. include:: /getting-started/support/index.rst
+
 .. title:: Testomato HELP
