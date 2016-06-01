@@ -8,7 +8,7 @@ has been resolved or fixed.
 
 Chose *Instant Notifications Settings* from account menu in top right corner:
 
-.. image:: /notifications/instant-notifications.png
+.. image:: instant-notifications.png
    :alt: Instant Notifications Settings
    :align: center
 

@@ -51,6 +51,6 @@ Open :doc:`Instant Notifications Settings </notifications/instant-notifications>
 or just open a :doc:`Project Settings </project/project-settings>`.
 Then scroll down to *Projects Notifications* and chose your preferences.
 
-.. image:: /notifications/notifications-severity.png
+.. image:: notifications-severity.png
    :alt: Notifications Severity
    :align: center

@@ -1,4 +1,4 @@
-.. title:: OMG
+.. title:: Checks
 
 .. toctree::
    :maxdepth: 1
