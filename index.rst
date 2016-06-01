@@ -15,8 +15,5 @@ due to unexpected website problems.
 .. include:: /uptime/index.rst
 .. include:: /reports/index.rst
 .. include:: /account/index.rst
-.. include:: /pricing/index.rst
-.. include:: /api/index.rst
-.. include:: /getting-started/support/index.rst
 
 .. title:: Testomato HELP
