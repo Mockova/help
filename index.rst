@@ -42,6 +42,8 @@ due to unexpected website problems.
 
    /checks/**/index
 
+.. include:: /checks/index.rst
+
 .. toctree::
    :maxdepth: 1
    :caption: Monitoring
@@ -91,6 +93,7 @@ due to unexpected website problems.
 
    /api/**/index
    /api/common
+
 
 
 .. include:: /getting-started/support.rst
