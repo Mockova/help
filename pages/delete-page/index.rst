@@ -1,4 +1,4 @@
-Delete page
+Delete Page
 ===========
 
 1. Click on the project you'd like to view.

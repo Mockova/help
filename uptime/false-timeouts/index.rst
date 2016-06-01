@@ -5,13 +5,6 @@ Why Does Testomato Say My Site Is Down When It's Not? Testomato may occasionally
 report your site is down or unavailable, but everything looks fine when you go
 and investigate the problem for yourself.
 
-This article will help you better understand what might cause this type of issue
-to occur.
-
-.. contents:: In this article
-   :local:
-   :depth: 1
-
 Location Matters
 ----------------
 
@@ -53,6 +46,3 @@ trace-route and the content of the returned data:
 
 For details about older incidents, select the issue in your Issues Timeline
 located in the **Reports** of your project's dashboard.
-
-Feel free to contact our team if you have more questions about short-term
-incidents: support@testomato.com.
