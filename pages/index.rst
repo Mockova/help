@@ -1,3 +1,6 @@
+Pages
+=====
+
 .. title:: Pages
 
 .. toctree::
