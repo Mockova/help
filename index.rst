@@ -11,6 +11,7 @@ due to unexpected website problems.
 .. include:: /getting-started/index.rst
 .. include:: /project/index.rst
 .. include:: /pages/index.rst
+.. include:: /groups/index.rst
 .. include:: /checks/index.rst
 .. include:: /uptime/index.rst
 .. include:: /reports/index.rst
