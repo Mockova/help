@@ -8,10 +8,6 @@ this type of issue can be hard to determine.
 This article will teach you about timeout results you may see in Reports and
 where to start when trying to discover the exact source of a problem.
 
-.. contents:: In this article
-   :local:
-   :depth: 1
-
 Timeouts
 --------
 
@@ -51,7 +47,7 @@ from Testomato and increase **Timeout settings**.
 To adjust these periods, open your project and then click to
 **Project Settings**
 
-.. image:: /uptime/project-settings.png
+.. image:: project-settings.png
    :alt: Project Settings
    :align: center
 
