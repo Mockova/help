@@ -25,7 +25,7 @@ This helps you monitor forms in two ways:
 * You’ll be able to easily separate your testing account from real user accounts.
 
 
-How to Register a Random User:
+How to Register a Random User
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 We created a `sample Testomato signup form <https://www.testomato.com/example/signup/>`_
@@ -37,7 +37,7 @@ form for this guide that will return a simple green alert when data is sent succ
 
 1. Click on the project you'd like to view.
 
-2. Add new :doc:`form check page </pages/add>` and enter the page URL: http://www.testomato.com/example/signup/.
+2. Add new :doc:`form check page </pages/add/index>` and enter the page URL: http://www.testomato.com/example/signup/.
 
 3. Select the form you'd like to configure.
 
@@ -48,18 +48,26 @@ form for this guide that will return a simple green alert when data is sent succ
    Login: testmail+%5TestomatoRnd@testomato.com
    Password: mypassword
 
-5. Create a new Rule for text on page contains and type the following string: " New user Elle created".
+5. Create a new Rule for text on page contains and type the following string: "New user Elle created".
+
 6. Click Create.
 
 How to Test a Random Login
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-1. Click on the project you'd like to view or select a project from the  All Projects menu in the top right corner.
-2. Click  Configure form values for the check you’d like to configure.
+1. Click on the project you'd like to view.
+
+2. Click Configure form values for the check you’d like to configure.
+
 3. Enter the following data you’d like sent to your form and click  Save.
 
-login: user%5TestomatoRnd
-password: mypassword
+.. code-block:: none
 
-4. Select the box next to  My Rules.
-5. Enter the expected message you’d like to see. For example, we used the message: “ User not found”.
+   login: user%5TestomatoRnd
+   password: mypassword
+
+4. Select the box next to My Rules.
+
+5. Enter the expected message you’d like to see. For example, we used the message: “User not found”.
+
 6. Click Save.
