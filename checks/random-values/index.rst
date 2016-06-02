@@ -37,7 +37,7 @@ form for this guide that will return a simple green alert when data is sent succ
 
 1. Click on the project you'd like to view.
 
-2. Add new :doc:`form check page </pages/add/index>` and enter the page URL: http://www.testomato.com/example/signup/.
+2. Add new :doc:`Form check page </pages/add/index>` and enter the page URL: http://www.testomato.com/example/signup/.
 
 3. Select the form you'd like to configure.
 
