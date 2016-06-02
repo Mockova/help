@@ -32,12 +32,16 @@ We created a `sample Testomato signup form <https://www.testomato.com/example/si
 form for this guide that will return a simple green alert when data is sent successfully.
 
 .. image:: sign-up.png
-  :align: center
-  :alt: Sign Up
+   :alt: Sign UP
+   :align: center
 
 1. Click on the project you'd like to view.
 
 2. Add new :doc:`Form check page </pages/add/index>` and enter the page URL: http://www.testomato.com/example/signup/.
+
+.. image:: add-form-check.png
+   :alt: Add form check
+   :align: center
 
 3. Select the form you'd like to configure.
 
