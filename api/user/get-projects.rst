@@ -14,7 +14,7 @@ Request Parameters
 ~~~~~~~~~~~~~~~~~~
 
 ============== =================================================================
-Parametter     Description
+Parameter      Description
 ============== =================================================================
 id             User ID (*required*)
 apikey         An API key unique to each user (*required*)

@@ -16,7 +16,7 @@ Request Parameters
 ~~~~~~~~~~~~~~~~~~
 
 ============== =================================================================
-Parametter     Description
+Parameter      Description
 ============== =================================================================
 projectId      Your project ID (*required*)
 areaId         Group ID (see :doc:`How to get Group ID </api/areas/get-areas>`)

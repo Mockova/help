@@ -14,7 +14,7 @@ Request Parameters
 ~~~~~~~~~~~~~~~~~~
 
 ============== =================================================================
-Parametter     Description
+Parameter      Description
 ============== =================================================================
 id             Your project ID or project name (*required*)
 jobid          A selected job ID (*required*)
@@ -31,7 +31,7 @@ Response Parameters
 ~~~~~~~~~~~~~~~~~~~
 
 ============== =================================================================
-Parametter     Description
+Parameter      Description
 ============== =================================================================
 jobId          A unique project job ID
 startedAt      Time when job started (unix timestamp)

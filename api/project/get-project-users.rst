@@ -11,7 +11,7 @@ Request Parameters
 ~~~~~~~~~~~~~~~~~~
 
 ============== =================================================================
-Parametter     Description
+Parameter      Description
 ============== =================================================================
 projectId      Your project ID or project name (*required*)
 apikey         An API key unique to each project (*required*)

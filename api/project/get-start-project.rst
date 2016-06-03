@@ -14,7 +14,7 @@ Request Parameters
 ~~~~~~~~~~~~~~~~~~
 
 ============== =================================================================
-Parametter     Description
+Parameter      Description
 ============== =================================================================
 id             Your project ID or project name (*required*)
 apikey         An API key unique to each project (*required*)
@@ -30,7 +30,7 @@ Response Parameters
 ~~~~~~~~~~~~~~~~~~~
 
 ============== =================================================================
-Parametter     Description
+Parameter      Description
 ============== =================================================================
 projectId      A unique project ID
 jobId	         A unique ID for each project job
