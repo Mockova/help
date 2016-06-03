@@ -1,7 +1,7 @@
 Read Project Information :code:`GET /project/{id}/`
 ===================================================
 
-This endpoint return Project Information
+Read information about a project.
 
 Request
 -------
