@@ -43,7 +43,16 @@ form for this guide that will return a simple green alert when data is sent succ
    :alt: Add form check
    :align: center
 
+.. image:: enter-url.png
+  :alt: Enter URL
+  :align: center
+
+
 3. Select the form you'd like to configure.
+
+.. image:: select-form.png
+   :alt: Add form check
+   :align: center
 
 4. Enter your credentials.
 
@@ -52,9 +61,18 @@ form for this guide that will return a simple green alert when data is sent succ
    Login: testmail+%5TestomatoRnd@testomato.com
    Password: mypassword
 
-5. Create a new Rule for text on page contains and type the following string: "New user Elle created".
+.. image:: credentials.png
+   :alt: Enter credentials
+   :align: center
 
-6. Click Create.
+
+5. Create a new Rule for text on page contains and type the following string: :code:`New user .* created`.
+
+.. image:: check.png
+   :alt: Enter check
+   :align: center
+
+6. Click **Create**.
 
 How to Test a Random Login
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -63,7 +81,7 @@ How to Test a Random Login
 
 2. Click Configure form values for the check you’d like to configure.
 
-3. Enter the following data you’d like sent to your form and click  Save.
+3. Enter the following data you’d like sent to your form and click **Save**.
 
 .. code-block:: none
 
@@ -72,6 +90,6 @@ How to Test a Random Login
 
 4. Select the box next to My Rules.
 
-5. Enter the expected message you’d like to see. For example, we used the message: “User not found”.
+5. Enter the expected message you’d like to see. For example, we used the message: :code:`User not found`.
 
 6. Click Save.
