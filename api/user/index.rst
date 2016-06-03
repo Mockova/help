@@ -1,7 +1,7 @@
 User :code:`/api/user/*`
 =======================
 
-This API endpoint allow work with users
+This API endpoint allows to work with users.
 
 .. toctree::
    :caption: Possible Actions
