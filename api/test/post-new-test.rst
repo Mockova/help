@@ -1,7 +1,7 @@
-Create page check :code:`POST /test`
+Create Page Checks :code:`POST /test`
 ====================================
 
-Create new page check with rules.
+Create new page checks.
 
 Request
 -------
@@ -31,7 +31,7 @@ Field          Description
 ============== =================================================================
 name           Name of the check (if skipped, a page title will be used)
 url            URL of the page that will be checked
-rules          An array of individual checks (`Rules syntax`_) (*optional*)
+rules          An array of individual checks (`Check syntax`_) (*optional*)
 options        Options for checks (`Options syntax`_) (*optional*)
 ============== =================================================================
 
@@ -51,7 +51,7 @@ options        Options for checks (`Options syntax`_) (*optional*)
     }
 
 
-Rules syntax
+Checks syntax
 ~~~~~~~~~~~~
 
 ============== ================ ================================================
