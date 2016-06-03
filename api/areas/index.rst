@@ -1,7 +1,7 @@
-Project Groups :code:`/api/areas/*`
+Project Group :code:`/api/area/*`
 ==================================
 
-This API endpoint allow work with :doc:`project </api/project/index>` groups.
+This API endpoint allows to work with :doc:`project </api/project/index>` groups.
 
 .. toctree::
    :caption: Possible Actions
