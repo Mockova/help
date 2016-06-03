@@ -1,4 +1,4 @@
-Read project status :code:`GET /project/{id}/status`
+Read Project State :code:`GET /project/{id}/status`
 ========================================================================
 
 Request
