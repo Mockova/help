@@ -1,7 +1,7 @@
-Start Project Checks :code:`GET /project/{id}/start?{apikey=value}`
+Run Project Checks :code:`GET /project/{id}/start?{apikey=value}`
 ===================================================================
 
-Run Project Checks and return results URL.
+Run all project checks and return results URL.
 
 Request
 -------
