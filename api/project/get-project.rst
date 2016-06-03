@@ -23,5 +23,5 @@ apikey         An API key unique to each project (*required*)
 Response
 --------
 
-.. literalinclude:: get-results.json
+.. literalinclude:: get-project.json
    :language: json
