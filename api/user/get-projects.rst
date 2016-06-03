@@ -1,7 +1,7 @@
 List User Projects :code:`GET /user/{id}/projects`
 =================================================
 
-Return list of all Users Projects
+Get a list of all user projects.
 
 Request
 -------
@@ -16,7 +16,7 @@ Request Parameters
 ============== =================================================================
 Parametter     Description
 ============== =================================================================
-id             Your user ID (*required*)
+id             User ID (*required*)
 apikey         An API key unique to each user (*required*)
 ============== =================================================================
 
