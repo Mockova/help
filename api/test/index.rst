@@ -1,4 +1,4 @@
-Pages :code:`/api/test/*`
+Page checks :code:`/api/test/*`
 ==================================
 
 This API endpoint allows to work with page checks.
