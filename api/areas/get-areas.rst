@@ -1,4 +1,4 @@
-List Project Groups :code:`GET /areas/{projectId}`
+List of Project Groups :code:`GET /areas/{projectId}`
 ==========================================================
 
 Get a list of groups in a :doc:`Project </api/project/index>`
