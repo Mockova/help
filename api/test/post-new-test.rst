@@ -51,7 +51,7 @@ options        Options for checks (`Options syntax`_) (*optional*)
     }
 
 
-Checks syntax
+Check syntax
 ~~~~~~~~~~~~
 
 ============== ================ ================================================
