@@ -14,7 +14,7 @@ Request Parameters
 ~~~~~~~~~~~~~~~~~~
 
 ============== =================================================================
-Parametter     Description
+Parameter      Description
 ============== =================================================================
 projectId 	   Your project ID
 apikey	        An API key unique to each project
@@ -24,7 +24,7 @@ Request Body (JSON)
 ~~~~~~~~~~~~~~~~~~~
 
 ============== =================================================================
-Parametter     Description
+Field          Description
 ============== =================================================================
 email          Email of the user that will be added. If he isn't a Testomato
                user, an invitation email will be sent.
