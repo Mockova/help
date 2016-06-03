@@ -1,7 +1,7 @@
-List Project Areas (groups) :code:`GET /areas/{projectId}`
+List Project Groups :code:`GET /areas/{projectId}`
 ==========================================================
 
-Get a List of Areas (groups) in a :doc:`Project </api/project/index>`
+Get a list of groups in a :doc:`Project </api/project/index>`
 
 Request
 -------
