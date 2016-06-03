@@ -1,7 +1,7 @@
-Pages & checks :code:`/api/test/*`
+Pages :code:`/api/test/*`
 ==================================
 
-This API endpoint allow work with checks (tests)
+This API endpoint allow to work with page checks
 
 .. toctree::
    :caption: Possible Actions
