@@ -1,7 +1,7 @@
 Pages :code:`/api/test/*`
 ==================================
 
-This API endpoint allow to work with page checks
+This API endpoint allows to work with page checks.
 
 .. toctree::
    :caption: Possible Actions
