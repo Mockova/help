@@ -1,7 +1,7 @@
 Check Examples
 ==============
 
-Monitoring strings is one of Testomato's most versatile features, but one that
+Monitoring strings are one of Testomato's most versatile features, but one that
 often gets overlooked.
 
 There are a lot of ways to use strings in your checks that might not be obvious.
