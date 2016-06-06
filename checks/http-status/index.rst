@@ -15,6 +15,6 @@ HTTP Status Codes Checks
 
 .. image:: http-status-codes.png
    :alt: HTTP Status Codes
-   :align: center
+   :align: center 
 
 Get more information about `HTTPS Status Codes <https://en.wikipedia.org/wiki/List_of_HTTP_status_codes>`_.
