@@ -15,7 +15,7 @@ Technology Issues
 Testomato does not detect client-side generated forms (e.g. Angular JS, ReactJS,
 jQuery, JavaScript, etc.). This means we are unable to monitor dynamically
 generated forms and pages that are rendered dynamically. We are also unable
-to properly test forms, which submit using JavaScript on the client-side.
+to properly test forms which are submitted using JavaScript on the client-side.
 
 2. **Your form uses anti-spam protection.**
 
@@ -26,7 +26,7 @@ protection.
 
 Testomato offers simple CSRF protection for forms. This means that we are only
 able to beat CSRF protection if your CSRF token has unlimited validity and the
-sessions isn't closed between subsequent checks (i.e. for 5 minutes).
+sessions aren't closed between subsequent checks (i.e. for 5 minutes).
 
 This means that in order for CSRF protection support to work, you'll need to
 ensure that the session started when your form was fetched **does not expire**.
@@ -54,7 +54,7 @@ Incorrect Form Selected
 Another common problem we see is that a configuration doesn't work because
 people have selected the wrong form. Testomato finds and names forms according
 to the name or title attribute of a form ( :code:`<form></form>` tags) on your web
-page. If Testomato doesn't not find a name or title attribute for your form,
+page. If Testomato doesn't find a name or title attribute for your form,
  we use the :code:`<h1></h1>` tags.
 
 This means that you might be asked to select a form, which does not have a
@@ -66,5 +66,5 @@ Here is an example:
    :alt: Incorrect name
    :align: center
 
-If you are having a problem with a auto-generated form, we suggest deleting
+If you are having a problem with an auto-generated form, we suggest deleting
 the form and trying to add a new form test manually.
