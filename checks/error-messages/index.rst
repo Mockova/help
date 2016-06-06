@@ -13,10 +13,10 @@ Testomato is sensitive to **all types of PHP error messages**:
 * :code:`Fatal error`
 * :code:`Catchable fatal error`
 * :code:`Warning`
-* :code:`Parse error`,
+* :code:`Parse error`
 * :code:`Notice`
 * :code:`Strict Standards`
-* :code:`Deprecated`,
+* :code:`Deprecated`
 * :code:`Unknown error`
 
 Database Errors
@@ -66,4 +66,4 @@ Others
 * `Phusion Passenger <https://www.phusionpassenger.com/>`_ errors
 * Blank page (page without any content)
 
-.. note:: We have an example page that shows randomly generated examples of some of the most common error messages: https://www.testomato.com/example/error.php
+.. note:: We have a page that shows randomly generated examples of some of the most common error messages: https://www.testomato.com/example/error.php
