@@ -2,8 +2,8 @@
 Common Server Error Messages
 ============================
 
-Testomato is sensitive to follow **Common Error Messages**, they are marker for us,
-that something is broken on website.
+Testomato is sensitive to **Common Error Messages**. They are a marker for us to indicate
+that something is broken on your website.
 
 PHP Errors
 ----------
@@ -66,4 +66,4 @@ Others
 * `Phusion Passenger <https://www.phusionpassenger.com/>`_ errors
 * Blank page (page without any content)
 
-.. note:: We have an example page generate randomly some of common error messages: https://www.testomato.com/example/error.php
+.. note:: We have an example page that shows randomly generated examples of some of the most common error messages: https://www.testomato.com/example/error.php
