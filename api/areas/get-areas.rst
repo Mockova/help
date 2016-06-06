@@ -3,7 +3,7 @@ List Project Groups :code:`GET /areas/{projectId}`
 
 Get a list of groups in :doc:`Project </api/project/index>`
 
-Request
+Request  
 -------
 
 .. code-block:: bash
