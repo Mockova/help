@@ -2,11 +2,11 @@ Delete Account
 ==============
 
 If you’re considering deleting your Testomato account, we’d love the
-opportunity to speak with you about it first. Often issues and other
+opportunity to speak with you about it first. Often, issues and other
 problems can be solved easily with the support of our team.
 
-Contact us at  support@testomato.com and tell us a little more about why you
-are thinking about canceling.
+Contact us at support@testomato.com and tell us a little more about why you
+are thinking about cancelling.
 
 We welcome questions, and our team is committed to solving any issue!
 
@@ -32,7 +32,7 @@ We welcome questions, and our team is committed to solving any issue!
    :align: center
 
 
-5. Visit your email and click to **Delete Account** button.
+5. Visit your email and click on the **Delete Account** button.
 
 .. image:: delete-confirm-email.png
    :alt: Delete my account
