@@ -1,4 +1,4 @@
-Get Project Users and their Roles :code:`GET /project/{projectId}/users`
+Get Project Users and Their Roles :code:`GET /project/{projectId}/users`
 ========================================================================
 
 Request
