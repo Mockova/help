@@ -40,8 +40,8 @@ More about `Open Graph Markup <https://developers.facebook.com/docs/sharing/webm
 
 Check if selected keyword are presents
 --------------------------------------
-Follow example will check if your page contains **meta tag** keywords with at last
- *testing* and *testomato* in content.
+Follow example will check if your page contains **meta tag** keywords with
+at last *testing* and *testomato* in content.
 
 ================ ================ ==============================================
 Source           Method           Rule
