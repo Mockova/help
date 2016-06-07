@@ -38,25 +38,70 @@ HTML On Page     matches          :code:`<meta property="og:(url|type|title|desc
 
 More about `Open Graph Markup <https://developers.facebook.com/docs/sharing/webmasters#markup>`_.
 
+Check if selected keyword are presents
+--------------------------------------
+Follow example will check if your page contains **meta tag** keywords with at last
+ *testing* and *testomato* in content.
+
+================ ================ ==============================================
+Source           Method           Rule
+================ ================ ==============================================
+HTML On Page     matches          :code:`<meta name="keywords" content=".*(testing|testomato).*">` (`see example <https://regex101.com/?regex=%3Cmeta%20name=%22keywords%22%20content=%22.*(testing|testomato).*%22%3E&text=%3Cmeta%20name=%22keywords%22%20content=%22testing,%20testomato,%20keyword%22%3E>`_)
+================ ================ ==============================================
+
+
 Check for :code:`<title>` content
 ---------------------------------
+
 ================ ================ ==============================================
 Source           Method           Rule
 ================ ================ ==============================================
 HTML On Page     contains         :code:`<title>Hello, I'm Roman.</title>`
-HTML On Page     matches          :code:`<title>.*</title>`
+HTML On Page     matches          :code:`<title>.*</title>` (`see example <https://regex101.com/?regex=%3Ctitle%3E*.%3C\/title%3E&text=%3Ctitle%3EHello,%20I%27m%20Roman.%3C/title%3E>`_)
 ================ ================ ==============================================
+
+
+Check canonical URL
+-------------------
+
+You can check exact link and URL:
+
+================ ================ ==============================================
+Source           Method           Rule
+================ ================ ==============================================
+HTML On Page     contains         :code:`<link rel="canonical" href="https://www.testomato.com/">`
+================ ================ ==============================================
+
+or you can check if you don't forget add any canonical link:
+
+================ ================ ==============================================
+Source           Method           Rule
+================ ================ ==============================================
+HTML On Page     matches          :code:`<link rel="canonical" href=".*">` (`see example <https://regex101.com/?regex=%3Clink%20rel=%22canonical%22%20href=%22.*%22%3E&text=%3Clink%20rel=%22canonical%22%20href=%22https://www.testomato.com/%22%3E>`_)
+================ ================ ==============================================
+
+
 
 Check for :code:`<h1>` content
 ------------------------------
+
+You can check exact :code:`<h1></h1>` content:
 
 ================ ================ ==============================================
 Source           Method           Rule
 ================ ================ ==============================================
 HTML On Page     contains         :code:`<h1>Hello, I'm Roman.</h1>`
+================ ================ ==============================================
+
+or you can match only most important part of :code:`<h1></h1>` content:
+
+================ ================ ==============================================
+Source           Method           Rule
+================ ================ ==============================================
 HTML On Page     matches          :code:`<h1>.*</h1>`
 HTML On Page     matches          :code:`<h1>Hello.*</h1>`
 ================ ================ ==============================================
+
 
 Google Analytics Code Presence
 ------------------------------
