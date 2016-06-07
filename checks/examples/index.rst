@@ -46,9 +46,8 @@ Follow example will check if your page contains **meta tag** keywords with at la
 ================ ================ ==============================================
 Source           Method           Rule
 ================ ================ ==============================================
-HTML On Page     matches          :code:`<meta name="keywords" content=".*(testing|testomato).*">` (`see example <https://regex101.com/?regex=%3Cmeta%20name=%22keywords%22%20content=%22.*(testing|testomato).*%22%3E&text=%3Cmeta%20name=%22keywords%22%20content=%22testing,%20testomato,%20keyword%22%3E>`_)
+HTML On Page     matches          :code:`<meta name="keywords" content=".*(testing|testomato).*">`
 ================ ================ ==============================================
-
 
 Check for :code:`<title>` content
 ---------------------------------
@@ -57,7 +56,7 @@ Check for :code:`<title>` content
 Source           Method           Rule
 ================ ================ ==============================================
 HTML On Page     contains         :code:`<title>Hello, I'm Roman.</title>`
-HTML On Page     matches          :code:`<title>.*</title>` (`see example <https://regex101.com/?regex=%3Ctitle%3E*.%3C\/title%3E&text=%3Ctitle%3EHello,%20I%27m%20Roman.%3C/title%3E>`_)
+HTML On Page     matches          :code:`<title>.*</title>`
 ================ ================ ==============================================
 
 
@@ -77,7 +76,7 @@ or you can check if you don't forget add any canonical link:
 ================ ================ ==============================================
 Source           Method           Rule
 ================ ================ ==============================================
-HTML On Page     matches          :code:`<link rel="canonical" href=".*">` (`see example <https://regex101.com/?regex=%3Clink%20rel=%22canonical%22%20href=%22.*%22%3E&text=%3Clink%20rel=%22canonical%22%20href=%22https://www.testomato.com/%22%3E>`_)
+HTML On Page     matches          :code:`<link rel="canonical" href=".*">`
 ================ ================ ==============================================
 
 
