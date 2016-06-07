@@ -92,7 +92,7 @@ Source           Method           Rule
 HTML On Page     contains         :code:`<h1>Hello, I'm Roman.</h1>`
 ================ ================ ==============================================
 
-or you can match only most important part of :code:`<h1></h1>` content:
+or you can match only the most important part of :code:`<h1></h1>` content:
 
 ================ ================ ==============================================
 Source           Method           Rule
