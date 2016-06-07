@@ -29,4 +29,4 @@ To learn more about robots.txt files and how to create your own, we suggest
 reading this `quick guide from Google <https://support.google.com/webmasters/answer/6062608?hl=en&ref_topic=6061961>`_.
 
 You can also visit `The Web Robots Pages <http://www.robotstxt.org/>`_ for more information
-about what robots.txt is, how to use it, and other commonly asked questions about robots.
+about what robots.txt is, how to use it, and other commonly asked questions about robots. 
