@@ -1,12 +1,12 @@
 Random Values in Checks
 =======================
 
-Random form values allows you to automatically generate email postfixes to avoid
+Random form values allow you to automatically generate email postfixes to avoid
 getting a duplicate email error caused by forms that follow a unique email
 validation rule. This article will show you how to use random values to
 monitor your forms.
 
-.. note:: Many servers (including Gmail) allows you to add a postfix with a plus (+) after a main address.
+.. note:: Many servers (including Gmail) allow you to add a postfix with a plus (+) after a main address.
 
 In other words, testmail+value@testomato.com will send emails to testmail@testomato.com.
 
