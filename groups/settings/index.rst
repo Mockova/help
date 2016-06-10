@@ -9,10 +9,8 @@ Group settings
   :alt: Group Settings
   :align: center
 
-3. Add or edit some checks that will be applied to the entire group.
+3. Add or edit some checks that will be applied to the entire group and click **Save**.
 
 .. image:: group-checks.png
    :alt: Group Checks
    :align: center
-
-4. Change settings and click **Save**.
