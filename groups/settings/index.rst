@@ -5,7 +5,7 @@ Group settings
 
 2. Click on the gear icon at the top-right of your project dashboard.
 
-.. image:: group-settings-button.png
+.. image:: group-settings.png
   :alt: Group Settings
   :align: center
 
