@@ -20,4 +20,4 @@ There are only **4 possible colors** for boxes:
 4. **Gray**: This page has not been configured yet, has been *turned off*, or the results are not available.
 
 By clicking on **Project Name** or **Open** button, it's possible to open
-:doc:`Project Dashboard </project/dashboard/project-dashboard>`.
+:doc:`Project Dashboard </project/dashboard/project-dashboard>`. 
