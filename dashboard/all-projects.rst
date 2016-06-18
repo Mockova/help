@@ -1,7 +1,7 @@
 All Projects
 ============
 
-**All Projects** are meant to help you get a basic overview of what's going
+**All Projects** is meant to help you get a basic overview of what's going
 on in your projects in a quick way.
 
 .. image:: all-projects.png
@@ -14,10 +14,10 @@ color according to the status of each check.
 
 There are only **4 possible colors** for boxes:
 
-1. **Green**: This page passed all checks
-2. **Red**: This page failed on some check.
+1. **Green**: This page passed all checks.
+2. **Red**: This page failed some checks.
 3. **Orange**: This page timed out.
-4. **Gray**: This page has not been configured yet, has been *turned off*, or whose results are not available.
+4. **Gray**: This page has not been configured yet, has been *turned off*, or the results are not available.
 
-By clicking to **Project Name** or **Open** button it's possible to open
+By clicking on **Project Name** or **Open** button, it's possible to open
 :doc:`Project Dashboard </project/dashboard/project-dashboard>`.
