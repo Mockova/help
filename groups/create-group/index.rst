@@ -1,7 +1,7 @@
 Create a Pages Group
 ====================
 
-Groups come in handy when have rules you want to apply to a specific set of
+Groups come in handy when you have rules you want to apply to a specific set of
 pages, which may be different from your main project pages.
 
 1. Click on the project you’d like to view or select.
