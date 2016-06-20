@@ -2,7 +2,7 @@ About Testomatobot
 ==================
 
 Testomatobot is the toolset we use to send web forms, download web pages, and
-download resources that will be checked, according to your project
+download resources that will be checked according to your project
 configurations.
 
 However, unlike a normal website crawling tool, it's not used for crawling the
