@@ -1,13 +1,13 @@
-How Testomato works?
+How Does Testomato Work?
 ====================
 
 Testomato is an easy automated monitoring service that actively monitors your
 website without requiring advanced technical knowledge or complicated
 maintenance, allowing you to check your website for problems that impact users
-directly. This is article will give you a quick overview of how Testomato works.
+directly. This article will give you a quick overview of how Testomato works.
 
-In order to monitor your website, Testomato downloads and scans your HTML code
-similar to other popular web crawlers (like Googlebot). However, we use our own
+In order to monitor your website, Testomato downloads and scans your HTML code in a way similar to
+other popular web crawlers (like Googlebot). However, we use our own
 crawler, the :doc:`Testomotobot </testomatobot/about>`.
 
 Testomato downloads your HTML source code in order to run checks, but it does
@@ -22,9 +22,9 @@ What Does Testomato Do?
 Modern websites require many complex and critical actions to work correctly.
 Most of the time everything works great, but even if your website is available,
 there may be parts that are slow or broken. And these problems can sometimes
-take days, even weeks, to find.
+take days, or even weeks, to find.
 
-With Testomato, you can discover issues as they happen to minimize the impact of
+With Testomato, you can discover issues as they happen to minimize the impact of those
 issues on your users and prevent your business from losing new signups, current
 customers, and revenue.
 
