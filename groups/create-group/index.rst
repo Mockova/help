@@ -18,7 +18,7 @@ pages, which may be different from your main project pages.
    :alt: Add check
    :align: center
 
-4. Name your Group and click  Save. name group
+4. Name your Group and click Save. 
 
 .. image:: create-group-name.png
    :alt: Add group name
