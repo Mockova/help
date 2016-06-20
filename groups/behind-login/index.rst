@@ -2,22 +2,21 @@ Monitoring behind login
 =======================
 
 Testomato can monitor pages behind login (password protected areas of your
-website). If you entrust us with your credentials (password + login) we will a
-utomatically login before each check is performed. Checks are run in a separate
+website). If you entrust us with your credentials (password + login) we will automatically login before each check is performed. Checks are run in a separate
 session that logs you in using credentials you configure in a login form.
 
 .. warning:: We have to store your credential (password + login) unencrypted. While we will do everything to ensure your safety, please be extra careful.
 
 Follow these security tips:
 
-* Use a testing account just for Testomato.
+* Use a testing account just for Testomato
 * Don’t use the same password you are using for your admin account
-* Use a restricted user account, not an admin account.
-* Use a strong, long password and change password once in a while.
+* Use a restricted user account, not an admin account
+* Use a strong, long password and change passwords once in a while
 * Use HTTPS certificates (they are `available free of charge <https://letsencrypt.org/>`_)
 * Do not hesitate to contact us (support@testomato.com) if you notice any suspicious behavior.
 
-Monitoring behinf login allows you to check:
+Monitoring behind login allows you to check:
 
 * System administration
 * Applications behind a login page
